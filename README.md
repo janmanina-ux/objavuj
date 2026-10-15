@@ -57,3 +57,8 @@ See `TEST-AI.md` and `V11-CHANGES.md`. Test script does not call APIs without ex
 ## Release 12
 
 Pozri `V12-CHANGES.md` pre zapnutie automatického AI spracovania, limity a bezpečnostné poznámky.
+
+
+## V12.3: Automatické titulky a odkazy
+
+Pozri `V12.3-CHANGES.md`. Lokálna skúška: `python3 scripts/discover_links.py`. Nájde len odkazy z tematických indexov, nikdy nepreberá celé články. Nová sekcia sa načítava zo `data/discovered.json`. V prípade blokovania stránky alebo robots.txt je záložný obsah zachovaný.

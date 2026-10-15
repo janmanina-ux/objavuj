@@ -1,0 +1,21 @@
+{
+  "description": "Voliteľné objavovanie titulkov a odkazov na tematických stránkach. Kontroluje robots.txt, nepoužíva text celých článkov.",
+  "sources": [
+    {
+      "name": "MTBIKER – bikepacking",
+      "topic": "Bikepacking",
+      "url": "https://www.mtbiker.sk/clanky/bikepacking",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 12
+    },
+    {
+      "name": "MTBIKER – cyklistika",
+      "topic": "Bikepacking",
+      "url": "https://www.mtbiker.sk/clanky/cyklotrasy",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 6
+    }
+  ]
+}
