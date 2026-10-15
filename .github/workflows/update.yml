@@ -36,6 +36,9 @@ jobs:
           if [ -f "$RUNNER_TEMP/objavuj-pages/data/latest.json" ]; then
             cp "$RUNNER_TEMP/objavuj-pages/data/latest.json" data/latest.json
           fi
+          if [ -f "$RUNNER_TEMP/objavuj-pages/data/discovered.json" ]; then
+            cp "$RUNNER_TEMP/objavuj-pages/data/discovered.json" data/discovered.json
+          fi
 
       - name: Python 3.12
         uses: actions/setup-python@v5
@@ -44,6 +47,9 @@ jobs:
 
       - name: Import RSS with fallback to previous articles
         run: python scripts/update_feeds.py
+
+      - name: Discover article links from category listings
+        run: python scripts/discover_links.py
 
       - name: Automatically enrich RSS articles with AI
         env:
@@ -60,6 +66,7 @@ jobs:
           cp index.html sw.js manifest.webmanifest public/
           cp icons/icon.svg public/icons/
           cp data/latest.json data/library.json data/discover.json public/data/
+          cp data/discovered.json public/data/
           touch public/.nojekyll
           test -s public/index.html
           python -m json.tool public/data/latest.json > /dev/null
