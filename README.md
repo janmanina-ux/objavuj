@@ -41,3 +41,7 @@ Offline overenie pred publikovaním:
 python3 -m unittest discover -s tests -v
 python3 -m py_compile scripts/update_feeds.py
 ```
+
+
+## Verzia 9
+Pozri `V9-CHANGES.md`. Nové otázky sa vytvoria počas ďalšieho RSS importu; AI API sa nepoužíva.
