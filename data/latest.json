@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:00:52+00:00",
+  "updated": "2026-10-15T15:10:52+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -19,6 +19,17 @@
         "excerpt_highlight": "Nedostatok parkovacích miest a kvalitných športovísk patrí medzi časté problémy slovenských sídlisk.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Košické sídlisko plánuje inovatívny projekt, ktorý rieši nedostatok parkovacích miest a športovísk. Parkovanie bude pod športoviskami, čím sa zlepší využitie verejných priestorov.",
+        "takeaways": [
+          "Nedostatok parkovacích miest a športovísk je bežný problém na slovenských sídliskách.",
+          "Parkovanie a športové funkcie súťažia o obmedzený verejný priestor.",
+          "Projekt na Benadovej ulici kombinuje parkovanie pod športoviskom, čím efektívne využíva priestor."
+        ],
+        "question": "Aké výhody a výzvy môže priniesť kombinácia parkovania s športoviskami v mestskom prostredí?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -39,6 +50,17 @@
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Ihrisko na Jakubovom námestí bolo zrekonštruované a teraz obsahuje viac herných a športových prvkov pre rôzne veky a priestor na oddych. Toto je prvý krok k ďalšej revitalizácii námestia.",
+        "takeaways": [
+          "Ihrisko má nové herné a športové prvky vhodné pre rôzne vekové kategórie.",
+          "Rekonštrukcia obsahuje aj nové zázemie a oddychový priestor.",
+          "Obnova ihriska je začiatkom plánovanej postupnej premeny Jakubovho námestia."
+        ],
+        "question": "Ako môže zlepšenie verejných priestorov ovplyvniť kvalitu života miestnych obyvateľov?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -59,6 +81,17 @@
         "excerpt_highlight": "„Našou stratégiou je rozvíjať rozsiahle projekty a komplexné mestské štvrte.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Michal Rehák z Penta Real Estate hovorí, že tento rok sa ich dlhodobá príprava na projektoch začína výraznejšie prejavovať vo výstavbe. Firma sa zameriava na rozsiahle mestské projekty, ako Southbank či Chalupkova, kde vytvára ucelené mestské bloky a zlepšuje kvalitu verejných priestorov.",
+        "takeaways": [
+          "Penta Real Estate plánuje rozsiahle mestské štvrte ako Southbank a Chalupkova.",
+          "Ich cieľom je vytvárať ucelené mestské bloky s kvalitným verejným priestorom.",
+          "Výkonný riaditeľ zdôrazňuje význam celkového fungovania lokality v projektoch."
+        ],
+        "question": "Ako môže výstavba komplexných mestských blokov prispieť k lepšiemu fungovaniu mesta?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -79,6 +112,17 @@
         "excerpt_highlight": "Na okraji bratislavskej Rače, medzi existujúcou zástavbou a vinohradmi pod Malými Karpatmi, sa pripravuje nový obytný súbor.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Na okraji bratislavskej Rače pripravujú nový obytný súbor s šiestimi objektmi medzi existujúcou zástavbou a vinohradmi. Projekt má priniesť byty, garni hotel aj centrálne parkové plochy. Výstavba môže začať koncom roka 2027, ak bude schválená.",
+        "takeaways": [
+          "Projekt sa nachádza medzi Račou a vinohradmi pri Malých Karpatoch.",
+          "V novej štvrti bude šesť samostatných objektov s rôznorodým využitím.",
+          "Výstavba by mohla začať koncom roka 2027, ak povolenia budú udelené."
+        ],
+        "question": "Ako môže nová výstavba ovplyvniť okolité vinohrady a prostredie Malých Karpát?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -99,6 +143,17 @@
         "excerpt_highlight": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Výstavba veže SKY PARK Tower v Bratislave dosiahla 14. poschodie. Práce začali v roku 2024 a plánované dokončenie je v roku 2027. V októbri sa začala predaj 4-izbových bytov.",
+        "takeaways": [
+          "SKY PARK Tower je momentálne vo výstavbe do 14. nadzemného podlažia.",
+          "Výstavba začala v roku 2024, dokončenie je plánované na rok 2027.",
+          "V októbri boli spustené predaje 4-izbových bytov v tejto veži."
+        ],
+        "question": "Ako môže výstavba SKY PARK Tower ovplyvniť urbanistický rozvoj Bratislavy?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -118,6 +173,17 @@
         "excerpt_highlight": "Sonda Mars Express nedávno odhalila fascinujúce tajomstvo červenej planéty.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Sonda Mars Express zaznamenala na Marse oblak, ktorý sa tvorí iba ráno a je výsledkom nečakanej fyzikálnej dynamiky. Podrobnosti o procese však nie sú úplne známe.",
+        "takeaways": [
+          "Na Marse sa objavili ranné oblaky spojené s neznámym fyzikálnym procesom.",
+          "Pozorovania vykonala sonda Mars Express.",
+          "Presné detaily o vzniku oblaku nie sú v texte uvedené."
+        ],
+        "question": "Aké faktory môžu ovplyvniť vznik ranných oblakov na Marse?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -138,6 +204,17 @@
         "excerpt_highlight": "Je veľkoryso prepojená s okolím a obnoviteľnými energiami.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Úryvok popisuje architektúru predajne MASARYK, ktorá je technicky i konštrukčne otvorená vonkajšiemu prostrediu a využíva obnoviteľné energie. Detaily o celom článku chýbajú.",
+        "takeaways": [
+          "Predajňa MASARYK má otvorenú konštrukciu z oceľových profilov.",
+          "Budova je prepojená s okolím a využíva obnoviteľné zdroje energie.",
+          "Architektúra zdôrazňuje otvorenosť a priznávanie materiálov."
+        ],
+        "question": "Ako môže otvorená architektúra ovplyvniť vnímanie verejných priestorov v meste?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -158,6 +235,17 @@
         "excerpt_highlight": "Historické centrum Trnavy čaká ďalší zásah súčasnej architektúry.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "V historickom centre Trnavy vznikne nový bytový projekt ZicherHouse na Divadelnej ulici s 12 bytmi a apartmánmi. Projekt má rešpektovať okolitú architektúru a priniesť nové bývanie v atraktívnej lokalite.",
+        "takeaways": [
+          "ZicherHouse ponúkne 12 bytov a apartmánov na Divadelnej ulici v Trnave.",
+          "Novostavba má citlivo nadviazať na charakter okolia.",
+          "Projekt prináša nové bývanie do centra Trnavy."
+        ],
+        "question": "Ako môže nová architektúra v historickom centre ovplyvniť zachovanie kultúrneho dedičstva?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -178,30 +266,36 @@
         "excerpt_highlight": "V centre Prievidze vyrástol za sedem mesiacov areál COOP Jednota – mestotvorný priestor s pasážou, kaviarňou a zelenou strechou, ocenený v Stavbe roka 2025.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "V Prievidzi stojí moderný areál COOP Jednota s pasážou, kaviarňou a zelenou strechou, navrhnutý FVA Architekti, ocenený v Stavbe roka 2025. ALUPLAST s.r.o. Prievidza dodal hliníkovú fasádu a presklenia.",
+        "takeaways": [
+          "Areál COOP Jednota v Prievidzi dokončili za sedem mesiacov.",
+          "Projekt obsahuje pasáž, kaviareň a zelenú strechu.",
+          "Fasádu a presklenia dodala firma ALUPLAST s.r.o. podľa návrhu FVA Architekti."
+        ],
+        "question": "Ako prispeje použitá hliníková fasáda k trvanlivosti a dizajnu stavby COOP Jednota?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     }
   ],
   "errors": [
     {
-      "source": "MTBIKER",
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
       "source": "Horydoly",
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "Frontman",
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "MTHIKER",
-      "reason": "HTTP Error 404: Not Found"
+      "reason": "Zdroj vrátil nulový počet platných položiek"
     }
   ],
   "successful_sources": 2,
-  "configured_sources": 6,
+  "configured_sources": 3,
   "selection_method": "topic-keywords-v4-excerpt-learning",
-  "editorial_notice": "Vzdelávacie otázky a zvýraznené vety sú odvodené len z RSS úryvkov. Nie sú to AI súhrny ani celé články.",
-  "max_age_days": 120
+  "editorial_notice": "Niektoré články obsahujú AI súhrn iba z RSS úryvku; ostatné obsahujú pôvodné úryvky a tematické otázky.",
+  "max_age_days": 120,
+  "ai_enrichment": {
+    "enabled": true,
+    "attempted": 9,
+    "succeeded": 9,
+    "limit_per_run": 10,
+    "source_scope": "rss_excerpt_only"
+  }
 }
