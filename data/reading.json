@@ -1,0 +1,87 @@
+{
+  "description": "Ručne vybrané, externe overené články. Nie sú AI súhrny a ich obsah sa nesťahuje.",
+  "last_curated": "2026-10-15",
+  "articles": [
+    {
+      "topic": "Bikepacking",
+      "title": "Ako na bikepacking: Základná výbava pre každý trip",
+      "url": "https://www.mtbiker.sk/clanky/131298/ako-na-bikepacking-zakladna-vybava-pre-kazdy-trip.html",
+      "language": "SK",
+      "note": "Spacák, karimatka, bivakovanie, svetlá, navigácia a oblečenie.",
+      "kind": "Výbava",
+      "source": "mtbiker.sk"
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "Ako na bikepacking: Brašny a systém balenia",
+      "url": "https://www.mtbiker.sk/clanky/131409/ako-na-bikepacking-brasny-a-system-balenia.html",
+      "language": "SK",
+      "note": "Brašny, ťažisko, ochrana pred dažďom a praktické balenie výbavy.",
+      "kind": "Výbava",
+      "source": "mtbiker.sk"
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "Ako na bikepacking: Disciplína v znamení dobrodružstva",
+      "url": "https://www.mtbiker.sk/clanky/131064/ako-na-bikepacking-disciplina-v-znameni-dobrodruzstva.html",
+      "language": "SK",
+      "note": "Začiatky viacdňového cestovania na bicykli.",
+      "kind": "Príbehy",
+      "source": "mtbiker.sk"
+    },
+    {
+      "topic": "Hory",
+      "title": "Ako na lezenie: Prvé kroky na stene – vybav sa ako lezec",
+      "url": "https://www.mtbiker.sk/clanky/130509/ako-na-lezenie-prve-kroky-na-stene-vybav-sa-ako-lezec.html",
+      "language": "SK",
+      "note": "Základná výstroj: lezečky, úväz a príslušenstvo.",
+      "kind": "Výbava",
+      "source": "mtbiker.sk"
+    },
+    {
+      "topic": "Hory",
+      "title": "Ako na lezenie: Čo nesmie chýbať v lezeckom batohu?",
+      "url": "https://www.mtbiker.sk/clanky/131641/ako-na-lezenie-co-nesmie-chybat-v-lezeckom-batohu.html",
+      "language": "SK",
+      "note": "Oblečenie do hôr, prilba, lano a ďalšia výstroj.",
+      "kind": "Výbava",
+      "source": "mtbiker.sk"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Kraftwerk: príbeh hudobnej revolúcie",
+      "url": "https://www.headliner.cz/novinky/kraftwerk-a-hudba-se-navzdy-zmenila",
+      "language": "CS",
+      "note": "Hudobné dejiny, elektronika a vplyv kapely na ďalšie generácie.",
+      "kind": "Príbehy",
+      "source": "headliner.cz"
+    },
+    {
+      "topic": "Hudba",
+      "title": "História Fenderu v rozhovoroch Tonyho Bacona",
+      "url": "https://www.frontman.cz/pod-kapotou-11-historie-fenderu-v-rozhovorech-tonyho-bacona",
+      "language": "CS",
+      "note": "História gitár Fender a ľudia, ktorí ich formovali.",
+      "kind": "História",
+      "source": "frontman.cz"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Jarda Konáš: desať rokov magazínu Headliner",
+      "url": "https://news.headliner.cz/podcasty/tema-jarda-headliner-je-jizda-a-velkej-mejdan",
+      "language": "CS",
+      "note": "Rozhovor o hudobnej publicistike a hudobnej scéne.",
+      "kind": "Rozhovory",
+      "source": "news.headliner.cz"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Headliner pôda: manažérky v hudobnej branži",
+      "url": "https://news.headliner.cz/podcasty/headliner-puda-zensky-jsou-zaklad-hudebni-branze-bez-nas-byste-byli-vyrizeni",
+      "language": "CS",
+      "note": "Hudobný biznis, kariéry interpretov a práca manažérok.",
+      "kind": "Rozhovory",
+      "source": "news.headliner.cz"
+    }
+  ]
+}

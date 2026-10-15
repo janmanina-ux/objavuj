@@ -67,6 +67,7 @@ jobs:
           cp icons/icon.svg public/icons/
           cp data/latest.json data/library.json data/discover.json public/data/
           cp data/discovered.json public/data/
+          cp data/reading.json public/data/
           touch public/.nojekyll
           test -s public/index.html
           python -m json.tool public/data/latest.json > /dev/null
