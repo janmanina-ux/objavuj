@@ -10,6 +10,8 @@ DEST=ROOT/'data'/'latest.json'
 MAX_PER_SOURCE=12
 LIMIT=36
 MAX_PER_CATEGORY=10
+MAX_AGE_DAYS=120
+MAX_UNDATED_DAYS=14
 
 def clean(s):
     return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', ' ', s or ''))).strip()
@@ -68,6 +70,20 @@ PREFERENCES = {
 }
 LOW_VALUE = ['reklama', 'inzercia', 'súťaž o', 'sutaz o', 'zľava', 'zlava', 'kupón', 'kupon', 'predplatné', 'predplatne', 'otváracie hodiny']
 
+def recent_enough(row, now):
+    """Prevent stale RSS items from masquerading as current. Unknown dates are kept
+    only during the first import, not forever across subsequent runs."""
+    raw=row.get('date') or ''
+    if not raw:
+        return not row.get('_historical', False)
+    try:
+        published=dt.datetime.fromisoformat(raw.replace('Z','+00:00'))
+        if published.tzinfo is None: published=published.replace(tzinfo=dt.timezone.utc)
+        age=(now-published.astimezone(dt.timezone.utc)).total_seconds()
+        return -86400 <= age <= MAX_AGE_DAYS*86400
+    except (ValueError,TypeError,OverflowError):
+        return False
+
 def rank(row):
     text = (row.get('title','')+' '+row.get('summary','')).casefold()
     title = row.get('title','').casefold()
@@ -85,7 +101,7 @@ def rank(row):
     row['relevance']=relevance
     return row
 
-items=[]; errors=[]; seen=set(); success=0
+items=[]; errors=[]; seen=set(); success=0; now=dt.datetime.now(dt.timezone.utc)
 previous=[]
 if DEST.exists():
     try: previous=json.loads(DEST.read_text(encoding='utf-8')).get('articles',[])
@@ -97,13 +113,16 @@ for feed in CONFIG:
         success+=1
         print(f"OK {feed['name']} {len(rows)}",flush=True)
         for row in rows:
-            if row['id'] not in seen: items.append(rank(row));seen.add(row['id'])
+            if row['id'] not in seen and recent_enough(row,now): items.append(rank(row));seen.add(row['id'])
     except Exception as ex:
         errors.append({'source':feed['name'],'reason':str(ex)[:160]})
         print(f"ERROR {feed['name']}: {ex}",file=sys.stderr)
 for row in previous:
     if row.get('id') not in seen and row.get('url','').startswith(('https://','http://')):
-        items.append(rank(row));seen.add(row['id'])
+        row['_historical']=True
+        if recent_enough(row,now):
+            row.pop('_historical',None)
+            items.append(rank(row));seen.add(row['id'])
 if not items:
     print('No usable RSS items. Keeping last successful file.',file=sys.stderr)
     sys.exit(1)
@@ -117,7 +136,7 @@ for row in items:
     selected.append(row)
     if len(selected)>=LIMIT: break
 DEST.parent.mkdir(parents=True,exist_ok=True)
-payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v1'}
+payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v2','max_age_days':MAX_AGE_DAYS}
 DEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'Wrote {len(selected)} ranked items -> {DEST}; categories: {counts}')
 if success == 0:
