@@ -1,0 +1,69 @@
+{
+  "description": "Ručne vybraný rozcestník; nie automaticky načítané články.",
+  "resources": [
+    {
+      "topic": "Jachting",
+      "title": "Europe – technické návody a trim plachty",
+      "source": "International Europe Class Union",
+      "language": "EN",
+      "url": "https://www.europeclass.org/tuning-guides.html",
+      "note": "Rozcestník k návodom North Sails, WB Sails a Europe Class UK."
+    },
+    {
+      "topic": "Jachting",
+      "title": "Europe – tréning a nastavenie lode",
+      "source": "UK Europe Class",
+      "language": "EN",
+      "url": "https://www.europeclass.org.uk/technical/tuning-guides",
+      "note": "Návody na rigging, techniku jazdy a taktiku; vhodné aj na postupné štúdium."
+    },
+    {
+      "topic": "Jachting",
+      "title": "Europe – technické dokumenty triedy",
+      "source": "International Europe Class Union",
+      "language": "EN",
+      "url": "https://www.europeclass.org/technical-documents.html",
+      "note": "Pravidlá triedy a oficiálne technické dokumenty. Nie je to denná správa."
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "Bikepacking – články a skúsenosti",
+      "source": "MTBIKER",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/bikepacking",
+      "note": "Praktické články o výbave, trasách a plánovaní ciest."
+    },
+    {
+      "topic": "Hory",
+      "title": "Turistické články a horské trasy",
+      "source": "Hiking.sk",
+      "language": "SK",
+      "url": "https://www.hiking.sk/",
+      "note": "Slovenské turistické články, správy a inšpirácie."
+    },
+    {
+      "topic": "Urbanizmus",
+      "title": "Urbanizmus a verejný priestor",
+      "source": "ASB",
+      "language": "SK",
+      "url": "https://www.asb.sk/architektura/urbanizmus",
+      "note": "Výber slovenských architektonických a urbanistických realizácií."
+    },
+    {
+      "topic": "Veda",
+      "title": "Popularizácia vedy",
+      "source": "Veda na dosah",
+      "language": "SK",
+      "url": "https://vedanadosah.cvtisr.sk/",
+      "note": "Správy a vysvetľujúce články o fyzike, vesmíre a ďalších oblastiach."
+    },
+    {
+      "topic": "Hudba",
+      "title": "Hudobníci, rozhovory a príbehy",
+      "source": "Frontman",
+      "language": "CS",
+      "url": "https://www.frontman.cz/",
+      "note": "Rozhovory a články o hudbe, nástrojoch a tvorbe."
+    }
+  ]
+}
