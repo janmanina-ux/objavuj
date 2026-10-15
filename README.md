@@ -68,3 +68,7 @@ Klikni na **⌕ Hľadať** alebo stlač **Ctrl/Cmd + K**. Vyhľadávanie beží 
 
 ## V12.6: Súkromná knižnica a slovenské preklady
 Pozri `SUPABASE-SETUP.md`. Supabase a OpenAI vyžadujú konfiguráciu pred použitím.
+
+
+## v12.7
+Prihlasovanie Magic Link zobrazuje chyby callbacku, obnovuje stav na pageshow a pri návrate na kartu.
