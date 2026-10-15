@@ -5,7 +5,7 @@ function reply(body: unknown, status = 200): Response { return new Response(JSON
 function digest(s: string): Promise<string> { return crypto.subtle.digest('SHA-256', new TextEncoder().encode(s)).then(b => Array.from(new Uint8Array(b)).map(n => n.toString(16).padStart(2, '0')).join('')); }
 const handler = withSupabase({auth:'user'}, async (req, ctx) => {
   if (req.method !== 'POST') return reply({error:'Method not allowed'}, 405);
-  const userId = ctx.userClaims?.sub;
+  const userId = ctx.userClaims?.id;
   if (!userId) return reply({error:'Prihlásenie je povinné'},401);
   let body: Record<string,unknown>;
   try {body = await req.json();} catch {return reply({error:'Nesprávne JSON'},400);}
