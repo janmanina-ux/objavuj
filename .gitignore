@@ -3,3 +3,11 @@
 .env.*
 translation-eval-result.json
 *api-key*
+
+# Lokalne nastroje
+node_modules/
+supabase/.temp/
+
+# Lokalna instalacia Supabase CLI
+package.json
+package-lock.json
