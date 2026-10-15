@@ -1,26 +1,84 @@
-name: Aktualizovat magazin
+name: Aktualizovat a publikovat Objavuj
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '23 5 * * *'
+
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: objavuj-publishing
+  cancel-in-progress: false
+
 jobs:
-  feeds:
+  publish:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout protected main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Load previous publication
+        shell: bash
+        run: |
+          git fetch origin gh-pages
+          git worktree add --detach "$RUNNER_TEMP/objavuj-pages" origin/gh-pages
+          if [ -f "$RUNNER_TEMP/objavuj-pages/data/latest.json" ]; then
+            cp "$RUNNER_TEMP/objavuj-pages/data/latest.json" data/latest.json
+          fi
+
+      - name: Python 3.12
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Ziskat nove clanky
+
+      - name: Import RSS with fallback to previous articles
         run: python scripts/update_feeds.py
-      - name: Ulozit aktualizacie
+
+      - name: Prepare published site
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Aktualizacia clankov"
-            git push
+          mkdir -p public/data public/icons
+          cp index.html sw.js manifest.webmanifest public/
+          cp icons/icon.svg public/icons/
+          cp data/latest.json public/data/latest.json
+          touch public/.nojekyll
+          test -s public/index.html
+          python -m json.tool public/data/latest.json > /dev/null
+
+      - name: Store published snapshot on gh-pages (not main)
+        shell: bash
+        run: |
+          TARGET="$RUNNER_TEMP/objavuj-pages"
+          rsync -a --delete --exclude='.git/' public/ "$TARGET/"
+          git -C "$TARGET" config user.name 'github-actions[bot]'
+          git -C "$TARGET" config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git -C "$TARGET" add -A
+          if ! git -C "$TARGET" diff --cached --quiet; then
+            git -C "$TARGET" commit -m 'Publish latest Objavuj content'
+            git -C "$TARGET" push origin HEAD:gh-pages
+          else
+            echo 'No changes in published content'
           fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload publication artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy Pages explicitly
+        id: deployment
+        uses: actions/deploy-pages@v4
