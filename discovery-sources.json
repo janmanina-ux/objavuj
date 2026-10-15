@@ -16,6 +16,38 @@
       "allowed_host": "www.mtbiker.sk",
       "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
       "max_items": 6
+    },
+    {
+      "name": "MTBIKER – lezenie",
+      "topic": "Hory",
+      "url": "https://www.mtbiker.sk/clanky/lezenie",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 12
+    },
+    {
+      "name": "MTBIKER – stanovanie",
+      "topic": "Hory",
+      "url": "https://www.mtbiker.sk/clanky/stanovanie",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 10
+    },
+    {
+      "name": "MTBIKER – oblečenie",
+      "topic": "Bikepacking",
+      "url": "https://www.mtbiker.sk/clanky/oblecenie",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 8
+    },
+    {
+      "name": "MTBIKER – ako na lezenie",
+      "topic": "Hory",
+      "url": "https://www.mtbiker.sk/clanky/ako-na-lezenie",
+      "allowed_host": "www.mtbiker.sk",
+      "link_regex": "^/clanky/\\d+/[^/]+\\.html$",
+      "max_items": 10
     }
   ]
 }

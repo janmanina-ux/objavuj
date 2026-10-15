@@ -80,7 +80,7 @@ def collect():
         found=old.get('articles',[])
         print('No new discovery items; preserving previously published links.')
     payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds') if success else old.get('updated'),
-      'articles':found[:35], 'errors':errors,'successful_sources':success,'configured_sources':len(cfg['sources']),
+      'articles':found[:100], 'errors':errors,'successful_sources':success,'configured_sources':len(cfg['sources']),
       'note':'Len automaticky objavené titulky a odkazy; nejde o RSS, súhrny článkov ani AI texty.'}
     DEST.parent.mkdir(parents=True,exist_ok=True)
     DEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

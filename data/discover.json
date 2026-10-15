@@ -65,6 +65,70 @@
       "url": "https://www.europeclass.org.uk/technical/tuning-guides",
       "note": "Technické informácie a trim pre triedu Europa; skôr knižnica než denný feed.",
       "source_type": "website_directory"
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "MTBIKER – stanovanie, stany a spacáky",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/stanovanie",
+      "note": "Výber stanov, nocovanie a cestovná výbava.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "MTBIKER – outdoorové oblečenie",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/oblecenie",
+      "note": "Funkčné vrstvy, nohavice a ochrana pred počasím.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hory",
+      "title": "MTBIKER – lezenie a horolezectvo",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/lezenie",
+      "note": "Lezecké cestopisy, výstupy a výstroj.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hory",
+      "title": "MTBIKER – ako na lezenie",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/ako-na-lezenie",
+      "note": "Lezečky, prilby, úväzy, laná, karabíny a metodika.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hory",
+      "title": "MTBIKER – stanovanie",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/stanovanie",
+      "note": "Stany, spacáky, nocovanie a výbava na treky.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Headliner – hudobný magazín",
+      "language": "CS",
+      "url": "https://www.headliner.cz/",
+      "note": "Príbehy hudobníkov, rozhovory a dejiny hudby.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Headliner – hudobné novinky",
+      "language": "CS",
+      "url": "https://www.headliner.cz/novinky",
+      "note": "Tematické články o interpretroch a hudobnej scéne.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Headliner – rozhovory a podcasty",
+      "language": "CS",
+      "url": "https://news.headliner.cz/podcasty",
+      "note": "Rozhovory a hudobný kontext.",
+      "source_type": "website_directory"
     }
   ]
 }

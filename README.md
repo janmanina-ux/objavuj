@@ -62,3 +62,6 @@ Pozri `V12-CHANGES.md` pre zapnutie automatického AI spracovania, limity a bezp
 ## V12.3: Automatické titulky a odkazy
 
 Pozri `V12.3-CHANGES.md`. Lokálna skúška: `python3 scripts/discover_links.py`. Nájde len odkazy z tematických indexov, nikdy nepreberá celé články. Nová sekcia sa načítava zo `data/discovered.json`. V prípade blokovania stránky alebo robots.txt je záložný obsah zachovaný.
+
+## V12.4: vyhľadávanie
+Klikni na **⌕ Hľadať** alebo stlač **Ctrl/Cmd + K**. Vyhľadávanie beží v prehliadači nad načítanými dátami a nepotrebuje ďalšie API. Odkaz „Hľadať na celom webe“ otvorí Google mimo aplikácie.
