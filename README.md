@@ -65,3 +65,6 @@ Pozri `V12.3-CHANGES.md`. Lokálna skúška: `python3 scripts/discover_links.py`
 
 ## V12.4: vyhľadávanie
 Klikni na **⌕ Hľadať** alebo stlač **Ctrl/Cmd + K**. Vyhľadávanie beží v prehliadači nad načítanými dátami a nepotrebuje ďalšie API. Odkaz „Hľadať na celom webe“ otvorí Google mimo aplikácie.
+
+## V12.6: Súkromná knižnica a slovenské preklady
+Pozri `SUPABASE-SETUP.md`. Supabase a OpenAI vyžadujú konfiguráciu pred použitím.

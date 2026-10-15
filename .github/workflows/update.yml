@@ -63,7 +63,9 @@ jobs:
         shell: bash
         run: |
           mkdir -p public/data public/icons
-          cp index.html sw.js manifest.webmanifest public/
+          cp index.html sw.js manifest.webmanifest private-library.js public/
+          mkdir -p public/config
+          cp config/supabase.json public/config/
           cp icons/icon.svg public/icons/
           cp data/latest.json data/library.json data/discover.json public/data/
           cp data/discovered.json public/data/

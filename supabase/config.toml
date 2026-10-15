@@ -1,0 +1,2 @@
+[functions.translate-article]
+verify_jwt = false
