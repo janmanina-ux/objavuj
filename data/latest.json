@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:12:48+00:00",
+  "updated": "2026-10-15T13:23:31+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -14,7 +14,12 @@
       "topic": "Urbanizmus",
       "relevance": 100,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Nedostatok parkovacích miest a kvalitných športovísk patrí medzi časté problémy slovenských sídlisk.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
@@ -29,7 +34,12 @@
       "topic": "Urbanizmus",
       "relevance": 89,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
@@ -44,7 +54,12 @@
       "topic": "Urbanizmus",
       "relevance": 62,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "„Našou stratégiou je rozvíjať rozsiahle projekty a komplexné mestské štvrte.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
@@ -59,7 +74,12 @@
       "topic": "Urbanizmus",
       "relevance": 62,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Na okraji bratislavskej Rače, medzi existujúcou zástavbou a vinohradmi pod Malými Karpatmi, sa pripravuje nový obytný súbor.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
@@ -74,7 +94,12 @@
       "topic": "Urbanizmus",
       "relevance": 62,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
@@ -88,7 +113,12 @@
       "topic": "Veda",
       "relevance": 60,
       "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách."
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Sonda Mars Express nedávno odhalila fascinujúce tajomstvo červenej planéty.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/stavebnictvo/technicke-zariadenia-budov/otvorena-vzduchu-slnku-i-zemi-technicky-i-konstrukcne",
@@ -103,7 +133,12 @@
       "topic": "Urbanizmus",
       "relevance": 53,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Je veľkoryso prepojená s okolím a obnoviteľnými energiami.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
@@ -118,7 +153,12 @@
       "topic": "Urbanizmus",
       "relevance": 48,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Historické centrum Trnavy čaká ďalší zásah súčasnej architektúry.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     },
     {
       "id": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
@@ -133,7 +173,12 @@
       "topic": "Urbanizmus",
       "relevance": 48,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "V centre Prievidze vyrástol za sedem mesiacov areál COOP Jednota – mestotvorný priestor s pasážou, kaviarňou a zelenou strechou, ocenený v Stavbe roka 2025.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
     }
   ],
   "errors": [
@@ -156,7 +201,7 @@
   ],
   "successful_sources": 2,
   "configured_sources": 6,
-  "selection_method": "topic-keywords-v3",
-  "editorial_notice": "Automaticky vybrané RSS úryvky. Nie sú to AI súhrny ani celé články.",
+  "selection_method": "topic-keywords-v4-excerpt-learning",
+  "editorial_notice": "Vzdelávacie otázky a zvýraznené vety sú odvodené len z RSS úryvkov. Nie sú to AI súhrny ani celé články.",
   "max_age_days": 120
 }
