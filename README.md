@@ -30,3 +30,14 @@
 
 ## Kam ďalej
 Pred pridaním AI zhrnutí overiť kvalitu zdrojov, filtráciu článkov a práva na preberaný obsah. Ak by sa pridalo AI API, kľúč patrí výlučne do **GitHub Actions Secrets**, nikdy do frontendu.
+
+## Verzia 8.0
+
+Podrobnosti sú v `V8-CHANGES.md`. V aplikácii sa RSS fotografie zobrazujú iba vtedy, keď ich samotný RSS zdroj poskytuje. Čas čítania sa vzťahuje iba na ukážku z RSS, nie na celý článok. Automatické súhrny pomocou AI zatiaľ nie sú aktivované.
+
+Offline overenie pred publikovaním:
+
+```bash
+python3 -m unittest discover -s tests -v
+python3 -m py_compile scripts/update_feeds.py
+```
