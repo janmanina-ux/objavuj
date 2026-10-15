@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-15T13:03:20+00:00",
+  "updated": "2026-10-15T13:12:48+00:00",
   "articles": [
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
+      "tag": "Urbanizmus",
+      "title": "Dole autá, hore šport. Košické sídlisko čaká netradičná premena verejného priestoru",
+      "summary": "Nedostatok parkovacích miest a kvalitných športovísk patrí medzi časté problémy slovenských sídlisk. Obe funkcie pritom súperia o obmedzený priestor, čo komplikuje ich rozvoj aj obnovu verejných plôch. Pripravovaný projekt na Benadovej ulici v Košiciach ukazuje možné riešenie – parkovanie umiestňuje pod nové športoviská, vďaka čomu môže jedna plocha slúžiť doprave, športu aj komunitnému životu.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
+      "date": "2026-10-13T10:21:25+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/AER_3_11zon-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 100,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+    },
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
       "tag": "Urbanizmus",
@@ -10,20 +25,11 @@
       "url": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
       "date": "2026-10-14T13:20:10+00:00",
       "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/jakubak-stare-mesto13102026_o_162029_5_913ebd_lg-840x560.jpg",
       "topic": "Urbanizmus",
-      "relevance": 89
-    },
-    {
-      "id": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
-      "tag": "Urbanizmus",
-      "title": "Bývanie medzi trnavskými dominantami. ZicherHouse prinesie nové byty na Divadelnú ulicu",
-      "summary": "Historické centrum Trnavy čaká ďalší zásah súčasnej architektúry. Prieluku na Divadelnej ulici vyplní komorný bytový projekt ZicherHouse, ktorý ponúkne 12 bytov a apartmánov. Novostavba má citlivo nadviazať na charakter okolitej zástavby a zároveň priniesť nové bývanie do atraktívnej lokality v centre mesta.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
-      "date": "2026-10-15T08:07:17+00:00",
-      "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 71
+      "relevance": 89,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     },
     {
       "id": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
@@ -34,8 +40,11 @@
       "url": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
       "date": "2026-10-14T14:00:45+00:00",
       "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/07/00Rehak-840x560.jpg",
       "topic": "Urbanizmus",
-      "relevance": 62
+      "relevance": 62,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     },
     {
       "id": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
@@ -46,8 +55,11 @@
       "url": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
       "date": "2026-10-14T06:47:14+00:00",
       "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Snimka-obrazovky-2026-10-08-135819-840x560.png",
       "topic": "Urbanizmus",
-      "relevance": 62
+      "relevance": 62,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     },
     {
       "id": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
@@ -58,20 +70,11 @@
       "url": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
       "date": "2026-10-13T14:08:25+00:00",
       "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/sky-park-tower-26-840x560.jpg",
       "topic": "Urbanizmus",
-      "relevance": 62
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
-      "tag": "Veda",
-      "title": "V Indii objavili skameneliny pravekého hada, ktorý mohol merať až 15 metrov",
-      "summary": "Kolosálny prehistorický had, ktorý žil v Indii približne pred 47 miliónmi rokov, mohol byť jedným z najväčších hadov, aké kedy existovali.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
-      "date": "2026-10-15T10:55:18+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 60
+      "relevance": 62,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     },
     {
       "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
@@ -83,7 +86,39 @@
       "date": "2026-10-13T08:55:22+00:00",
       "type": "rss",
       "topic": "Veda",
-      "relevance": 60
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách."
+    },
+    {
+      "id": "https://www.asb.sk/stavebnictvo/technicke-zariadenia-budov/otvorena-vzduchu-slnku-i-zemi-technicky-i-konstrukcne",
+      "tag": "Urbanizmus",
+      "title": "Otvorená vzduchu, slnku i zemi. Technicky i konštrukčne",
+      "summary": "Je veľkoryso prepojená s okolím a obnoviteľnými energiami. Jej konštrukcia z otvorených oceľových montovaných profilov zrkadlí príbeh úspešnej rodinnej firmy. Architektúra predajne MASARYK pracuje s priznávaním a otvorenosťou.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/stavebnictvo/technicke-zariadenia-budov/otvorena-vzduchu-slnku-i-zemi-technicky-i-konstrukcne",
+      "date": "2026-10-13T12:02:47+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/1.Masaryk_photo-by-alex-shoots-buildings-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 53,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
+    },
+    {
+      "id": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
+      "tag": "Urbanizmus",
+      "title": "Bývanie medzi trnavskými dominantami. ZicherHouse prinesie nové byty na Divadelnú ulicu",
+      "summary": "Historické centrum Trnavy čaká ďalší zásah súčasnej architektúry. Prieluku na Divadelnej ulici vyplní komorný bytový projekt ZicherHouse, ktorý ponúkne 12 bytov a apartmánov. Novostavba má citlivo nadviazať na charakter okolitej zástavby a zároveň priniesť nové bývanie do atraktívnej lokality v centre mesta.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
+      "date": "2026-10-15T08:07:17+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/zicher-house-trnava-investicne-byty-exterier-galeria-01-840x560.webp",
+      "topic": "Urbanizmus",
+      "relevance": 48,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     },
     {
       "id": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
@@ -94,152 +129,11 @@
       "url": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
       "date": "2026-10-14T14:02:56+00:00",
       "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/FVACOOP03-840x560.jpg",
       "topic": "Urbanizmus",
-      "relevance": 53
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/nova-autobusova-stanica-v-rajci-ma-zlepsit-cestovanie-v-regione",
-      "tag": "Urbanizmus",
-      "title": "Nová autobusová stanica v Rajci má zlepšiť cestovanie v regióne. Mesto čaká osem mesiacov prác",
-      "summary": "Po rokoch príprav sa v Rajci začína výstavba novej autobusovej stanice, ktorá má zlepšiť podmienky pre cestujúcich aj autobusovú dopravu v celej Rajeckej doline. Súčasný priestor nahradí modernejšie zázemie. Investícia za približne 1,2 milióna eur prinesie aj zmeny v okolí stanice, počas výstavby však cestujúci musia počítať s dočasnými obmedzeniami.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/nova-autobusova-stanica-v-rajci-ma-zlepsit-cestovanie-v-regione",
-      "date": "2026-10-15T12:50:04+00:00",
-      "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 44
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
-      "tag": "Urbanizmus",
-      "title": "Prešov ukončil prvú etapu obnovy jazdeckého areálu. Jazdiareň dostala novú fasádu aj strechu",
-      "summary": "Mesto Prešov ukončilo prvú etapu obnovy jazdeckého areálu na Jazdeckej ulici za približne 1,84 milióna eur s DPH, z ktorých 1,5 milióna eur pokryl príspevok z Fondu na podporu športu. Na druhú etapu má mesto zabezpečenú ďalšiu štátnu podporu vo výške približne dva milióny eur. Cieľom projektu je vytvoriť moderné jazdecké centrum pre deti a mládež Slovenska. Informoval o tom hovorca mesta Prešov Michal Hudák.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
-      "date": "2026-10-15T09:35:28+00:00",
-      "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 44
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
-      "tag": "Veda",
-      "title": "Ministerstvo školstva modernizuje prípravu budúcich IT špecialistov. Investuje do laboratórií, AI cloudu aj kvantových technológií",
-      "summary": "Ministerstvo školstva posúva do realizácie projekt modernizácie vzdelávania budúcich IT špecialistov. Po zmapovaní potrieb škôl a po verejnom obstarávaní prichádza konkrétne vybavenie pre stredné školy: moderné sieťové laboratóriá, malé kvantové počítače a spoločný výkonný AI cloud. Projekt prepája 80 stredných škôl a štyri vysoké školy a počíta aj so vzdelávaním približne 300 pedagógov.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
-      "date": "2026-10-14T08:55:47+00:00",
-      "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 44
-    },
-    {
-      "id": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
-      "tag": "Urbanizmus",
-      "title": "Tri roky výstavby druhej etapy severného obchvatu Prešova",
-      "summary": "Úsek R4 Prešov – severný obchvat, II. etapa, tvorí časť dopravnej siete EÚ TEN-T, ktorá je súčasťou medzinárodného európskeho ťahu E 371 v smere sever – juh. Realizáciou tejto etapy sa prepojí diaľnica D1 a budúca rýchlostná cesta R4 Kapušany – Giraltovce, čím sa výrazne odľahčí doprava v meste Prešov. Realizovaný úsek skráti čas jazdy o 7 minút. Hlavná trasa je štvorpruhová, smerovo rozdelená, kategórie R 24,5/100, s celkovou",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
-      "date": "2026-10-15T08:54:20+00:00",
-      "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 35
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ludia/malovanie-ako-digitalny-detox/",
-      "tag": "Veda",
-      "title": "Maľovanie ako digitálny detox",
-      "summary": "V dnešnej dobe smartfónov sú naše oči nepretržite vystavované modrému svetlu displejov. Náš limit pozornosti sa skracuje a spoločnosť hľadá alternatívy, ktoré ponúkajú digitálny detox. Maľovanie opäť prichádza na scénu. Vedci a psychológovia ho prirovnávajú ku kognitívnemu a k emocionálnemu resetu.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ludia/malovanie-ako-digitalny-detox/",
-      "date": "2026-10-15T12:55:34+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
-      "tag": "Veda",
-      "title": "Biela palica sa do sveta rozšírila z Paríža. Vďačíme za ňu Francúzke Guilly d’Herbemontovej",
-      "summary": "Guilly d’Herbemontová prejavila empatiu a iniciatívu, keď navrhla používanie bielej palice pre ľudí so zrakovým postihnutím.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
-      "date": "2026-10-15T09:03:59+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
-      "tag": "Veda",
-      "title": "Radka Michalková skúma, ako môžu nanočastice bojovať proti rakovine mozgu. U každého pacienta je nádor iný",
-      "summary": "Glioblastóm je najagresívnejším nádorom mozgu a je veľmi ťažké ho liečiť.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
-      "date": "2026-10-15T03:55:35+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
-      "tag": "Veda",
-      "title": "Kvíz: Spoznáte biele motýle našej prírody?",
-      "summary": "Biele motýle patria k najznámejším druhom denného hmyzu. Otestujte si vedomosti o beláskoch, ich znakoch a spôsobe života.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
-      "date": "2026-10-14T12:55:59+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
-      "tag": "Veda",
-      "title": "Rover Perseverance dosiahol nový rekord pri prieskume Marsu",
-      "summary": "Za tento úspech rover Perseverance vo veľkej miere vďačí svojej schopnosti autonómneho pohybu.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
-      "date": "2026-10-14T10:55:15+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
-      "tag": "Veda",
-      "title": "Ďalšia nádejná liečba obezity na dosah: nová injekcia spôsobuje samodeštrukciu tukových buniek",
-      "summary": "Sľubná nová injekcia ničí tukové bunky, znižuje množstvo nebezpečného brušného tuku a mohla by pomôcť zabrániť opätovnému priberaniu na váhe.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
-      "date": "2026-10-14T03:55:07+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
-      "tag": "Veda",
-      "title": "Vanilka môže liečiť rany či infekcie, kľúčová je jedna zložka",
-      "summary": "Charakteristická aromatická zložka tohto korenia by mohla pomáhať v boji proti infekciám, zmierňovať zápaly a zlepšovať starostlivosť o rany.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
-      "date": "2026-10-13T12:55:35+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
-      "tag": "Veda",
-      "title": "Čo ovplyvňuje vzájomný výber rastlín a opeľovačov? Klíma alebo mapa?",
-      "summary": "Rastúce teploty a premeny zrážok môžu ovplyvniť rozšírenie jednotlivých druhov, čas kvitnutia rastlín i aktivitu opeľovačov.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
-      "date": "2026-10-13T10:55:20+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 33
+      "relevance": 48,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru."
     }
   ],
   "errors": [
@@ -254,10 +148,15 @@
     {
       "source": "Frontman",
       "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "MTHIKER",
+      "reason": "HTTP Error 404: Not Found"
     }
   ],
   "successful_sources": 2,
-  "configured_sources": 5,
-  "selection_method": "topic-keywords-v2",
+  "configured_sources": 6,
+  "selection_method": "topic-keywords-v3",
+  "editorial_notice": "Automaticky vybrané RSS úryvky. Nie sú to AI súhrny ani celé články.",
   "max_age_days": 120
 }
