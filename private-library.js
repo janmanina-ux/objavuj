@@ -35,7 +35,7 @@ async function show(){
       await refresh();
     }else{
       const problem=callbackProblem();
-      say(problem?'Prihlasovací odkaz sa nepodarilo spracovať: '+problem:'Nie si prihlásený. Prihlás sa e-mailovým odkazom.');
+      say(problem?'Prihlasovací odkaz sa nepodarilo spracovať: '+problem:'Nie si prihlásený. Zadaj e-mail a heslo.');
     }
   }catch(e){auth.hidden=false;actions.hidden=true;form.hidden=true;say('Nepodarilo sa obnoviť reláciu: '+(e?.message||String(e)));}
   finally{checkingSession=false;}
@@ -50,6 +50,21 @@ await show();
 if(failure&&!session){say('Prihlasovací odkaz zlyhal: '+failure+' Skús nový odkaz v rovnakom prehliadači.');}
 window.addEventListener('pageshow',()=>setTimeout(show,0));
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(show,0)});}catch(e){say('Supabase sa nepodarilo inicializovať: '+e.message);auth.hidden=true;}})();
+$('privatePasswordLogin').onclick=async()=>{
+  if(!client)return;
+  const email=$('privateEmail').value.trim(),password=$('privatePassword').value;
+  if(!email||!password)return say('Zadaj e-mail aj heslo.');
+  const button=$('privatePasswordLogin');button.disabled=true;
+  say('Prihlasujem…');
+  try{
+    const {data,error}=await client.auth.signInWithPassword({email,password});
+    if(error)throw error;
+    $('privatePassword').value='';
+    session=data.session;
+    await show();
+  }catch(error){say('Prihlásenie zlyhalo: '+(error?.message||String(error)));}
+  finally{button.disabled=false;}
+};
 $('privateLogin').onclick=async()=>{if(!client)return;const email=$('privateEmail').value.trim();if(!email)return say('Zadaj e-mail.');const {error}=await client.auth.signInWithOtp({email,options:{emailRedirectTo:location.origin+location.pathname+'#moje-preklady'}});say(error?'Prihlásenie zlyhalo: '+error.message:'Skontroluj e-mail a otvor prihlasovací odkaz.');};
 $('privateLogout').onclick=async()=>{if(client)await client.auth.signOut();};$('privateRefresh').onclick=refresh;
 $('translateNow').onclick=async()=>{if(!client||!session)return;const b=$('translateNow');const url=$('translateUrl').value.trim(),title=$('translateTitle').value.trim(),text=$('translateText').value.trim();if(text.length<100||text.length>20000)return say('Text musí mať 100 až 20 000 znakov.');if(!/^https:\/\//.test(url))return say('Vlož HTTPS adresu originálu.');b.disabled=true;say('Prekladám do slovenčiny…');try{const {data,error}=await client.functions.invoke('translate-article',{body:{url,title,text}});if(error){let detail=error.message;try{const json=await error.context.json();detail=json.error||detail}catch{}throw Error(detail);}reveal(title||'Slovenský preklad',data.translation);say(data.cached?'Načítaný už uložený preklad (bez nového API volania).':'Nový slovenský preklad uložený.');await refresh();}catch(e){say('Preklad sa nepodaril: '+e.message);}finally{b.disabled=false;}};

@@ -72,3 +72,10 @@ Pozri `SUPABASE-SETUP.md`. Supabase a OpenAI vyžadujú konfiguráciu pred použ
 
 ## v12.7
 Prihlasovanie Magic Link zobrazuje chyby callbacku, obnovuje stav na pageshow a pri návrate na kartu.
+
+
+## Verzia 12.8: Supabase login
+
+Použite existujúci Supabase účet s nastaveným heslom. Na stránke v sekcii **Moje slovenské preklady** vyplňte e-mail, heslo a kliknite **Prihlásiť sa heslom**. Magic Link je záložná možnosť. Preklad funguje len po nastavení SQL schémy, RLS a nasadení `translate-article` Edge Function.
+
+**Konfigurácia:** Archív **neobsahuje** `config/supabase.json`; existujúci správne nakonfigurovaný súbor sa musí zachovať v `main` a publikačný workflow ho prenesie. Nepridávajte do verejného repozitára secret/service role kľúče.

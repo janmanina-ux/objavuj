@@ -32,3 +32,8 @@ V Objavuj klikni na **Moje slovenské preklady**, prihlás sa rovnakým emailom 
 **Limity:** Preklad je určený na súkromné čítanie. Aplikácia sama nesťahuje celé články ani text z webov za paywallom. Vyžaduje text vložený používateľom. Serverový limit na požiadavku je 20 000 znakov. Preklady sú osobné a nie sú súčasťou verejného `gh-pages`.
 
 Server kontroluje orientačný limit 10 novo uložených prekladov denne na účet. Súbežné požiadavky môžu limit obísť; preto nastav aj API rozpočtové upozornenia a obmedz prihlasovanie.
+
+
+## 12.8: Prihlasovanie heslom
+
+Existujúcemu e-mailom overenému používateľovi nastavte heslo zabezpečeným administračným spôsobom. Vo verejnom klientovi sa používa iba `auth.signInWithPassword`. Magic Link zostáva záložný. Po nasadení otestujte, že zostane prihlásenie aj po refreshi.
