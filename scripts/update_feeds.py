@@ -116,6 +116,24 @@ def why_read(row, topic, relevance):
     }
     return descriptions.get(topic,'Zaujímavosť z vybraného zdroja.')
 
+def learning_companion(row):
+    """Source-bound reading prompts, NOT an AI summary or claims about full article."""
+    excerpt=clean(row.get('summary',''))
+    sentence=re.split(r'(?<=[.!?])\s+', excerpt)[0].strip()
+    if len(sentence)>220:
+        sentence=sentence[:217].rsplit(' ',1)[0]+'…'
+    topic=row.get('topic',row.get('tag','Iné'))
+    questions={
+        'Jachting':'Čo by si z tejto informácie vedel otestovať na vode pri ďalšom tréningu?',
+        'Bikepacking':'Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?',
+        'Hory':'Čo je potrebné pred výletom ešte overiť z aktuálnych podmienok?',
+        'Urbanizmus':'Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?',
+        'Veda':'Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?',
+        'Hudba':'Ako tento príbeh súvisí s tvorbou alebo dobovým kontextom hudobníka?'
+    }
+    return {'excerpt_highlight':sentence, 'question':questions.get(topic,'Čo je hlavné tvrdenie a ako by si ho overil?'),
+            'scope':'Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný.'}
+
 def rank(row):
     text = (row.get('title','')+' '+row.get('summary','')).casefold()
     title = row.get('title','').casefold()
@@ -138,6 +156,7 @@ def rank(row):
     row['relevance']=relevance
     row['read_minutes_excerpt']=estimate_reading_minutes(row.get('summary',''))
     row['why_read']=why_read(row, topic, relevance)
+    row['learning']=learning_companion(row)
     return row
 
 items=[]; errors=[]; seen=set(); success=0; now=dt.datetime.now(dt.timezone.utc)
@@ -179,7 +198,7 @@ for row in items:
     selected.append(row)
     if len(selected)>=LIMIT: break
 DEST.parent.mkdir(parents=True,exist_ok=True)
-payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v3','editorial_notice':'Automaticky vybrané RSS úryvky. Nie sú to AI súhrny ani celé články.','max_age_days':MAX_AGE_DAYS}
+payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v4-excerpt-learning','editorial_notice':'Vzdelávacie otázky a zvýraznené vety sú odvodené len z RSS úryvkov. Nie sú to AI súhrny ani celé články.','max_age_days':MAX_AGE_DAYS}
 DEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'Wrote {len(selected)} ranked items -> {DEST}; categories: {counts}')
 if success == 0:
