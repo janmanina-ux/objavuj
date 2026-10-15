@@ -9,9 +9,41 @@ const handler = withSupabase({auth:'user'}, async (req, ctx) => {
   if (!userId) return reply({error:'Prihlásenie je povinné'},401);
   let body: Record<string,unknown>;
   try {body = await req.json();} catch {return reply({error:'Nesprávne JSON'},400);}
-  const sourceUrl = String(body.url||'').trim(), title = String(body.title||'').trim().slice(0,300), source = String(body.text||'').trim();
+  const sourceUrl = String(body.url||'').trim(), title = String(body.title||'').trim().slice(0,300);
+  let source = String(body.text||'').trim();
+  const automatic = body.auto === true;
   let parsed: URL;
   try {parsed = new URL(sourceUrl); if(parsed.protocol !== 'https:' || !parsed.hostname.includes('.')) throw new Error();} catch {return reply({error:'Vyžaduje sa platná HTTPS adresa zdroja'},400);}
+  // Reuse existing user translation by URL before requesting the remote site or OpenAI.
+  if (automatic) {
+    const { data: saved, error: savedError } = await ctx.supabase.from('saved_translations')
+      .select('id,translated_text').eq('source_url',sourceUrl).eq('language','sk')
+      .order('created_at',{ascending:false}).limit(1).maybeSingle();
+    if (savedError) return reply({error:'Nedá sa overiť uložený preklad'},500);
+    if (saved) return reply({id:saved.id,translation:saved.translated_text,cached:true});
+    const host = parsed.hostname.toLowerCase();
+    const allowed = ['mtbiker.sk','hiking.sk','horydoly.cz','frontman.cz','headliner.cz','musicserver.cz','bikepacking.com','vedanadosah.cvtisr.sk','asb.sk','archinfo.sk','mthiker.sk'];
+    if (!allowed.some(d=>host===d||host.endsWith('.'+d))) return reply({error:'Automatické načítanie tohto webu nie je podporované. Skopíruj text ručne.'},422);
+    if (parsed.username || parsed.password || parsed.port) return reply({error:'Nepodporovaná adresa článku'},422);
+    const ctrl = new AbortController(); const timer=setTimeout(()=>ctrl.abort(),12000);
+    try {
+      const r=await fetch(sourceUrl,{redirect:'manual',signal:ctrl.signal,headers:{'User-Agent':'ObjavujPersonalReader/1.0 (+private study)','Accept':'text/html'}});
+      if(!r.ok) return reply({error:'Zdroj neumožnil načítanie článku (HTTP '+r.status+'). Vlož text ručne.'},422);
+      if(!(r.headers.get('content-type')||'').toLowerCase().includes('text/html')) return reply({error:'Zdroj nevrátil HTML článok'},422);
+      if(Number(r.headers.get('content-length')||0)>500000) return reply({error:'Článok je príliš veľký'},422);
+      const html=await r.text();
+      if(html.length>500000) return reply({error:'Článok je príliš veľký'},422);
+      // Parse only page content, never run its scripts. Fail closed if no usable text.
+      const {parseHTML}=await import('npm:linkedom@0.18.12');
+      const {Readability}=await import('npm:@mozilla/readability@0.6.0');
+      const {document}=parseHTML(html);
+      const article=new Readability(document,{charThreshold:100}).parse();
+      source=String(article?.textContent||'').replace(/\s+/g,' ').trim();
+      if(source.length>20000) source=source.slice(0,20000);
+      if(source.length<100) return reply({error:'Nepodarilo sa získať zrozumiteľný text. Skopíruj ho ručne.'},422);
+    }catch{return reply({error:'Zdroj sa nedá automaticky načítať. Skopíruj text ručne.'},422);}
+    finally {clearTimeout(timer);}
+  }
   if (source.length < 100 || source.length > 20000) return reply({error:'Vlož 100 až 20 000 znakov článku'},400);
   const hash = await digest(sourceUrl+'\n'+source);
   const {data: existing,error: lookupErr} = await ctx.supabase.from('saved_translations').select('id,translated_text,created_at').eq('source_hash',hash).eq('language','sk').maybeSingle();
