@@ -1,0 +1,5 @@
+# Never commit credentials or manual quality assessments
+.env
+.env.*
+translation-eval-result.json
+*api-key*

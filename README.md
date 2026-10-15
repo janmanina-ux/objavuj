@@ -45,3 +45,10 @@ python3 -m py_compile scripts/update_feeds.py
 
 ## Verzia 9
 Pozri `V9-CHANGES.md`. Nové otázky sa vytvoria počas ďalšieho RSS importu; AI API sa nepoužíva.
+
+
+## V10: voliteľné AI spracovanie
+Pozri `V10-CHANGES.md`. Predvolene vypnuté a bezpečné pre bezplatný release.
+
+## v11: controlled comparison before cloud rollout
+See `TEST-AI.md` and `V11-CHANGES.md`. Test script does not call APIs without explicit `--execute` and an API key; the existing scheduled workflow remains opt-in for enrichment.

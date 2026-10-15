@@ -45,6 +45,14 @@ jobs:
       - name: Import RSS with fallback to previous articles
         run: python scripts/update_feeds.py
 
+      - name: Optional AI learning enrichment (disabled by default)
+        env:
+          OBJAVUJ_AI_ENABLED: ${{ vars.OBJAVUJ_AI_ENABLED || 'false' }}
+          OBJAVUJ_AI_MAX_PER_RUN: ${{ vars.OBJAVUJ_AI_MAX_PER_RUN || '3' }}
+          OBJAVUJ_AI_MODEL: ${{ vars.OBJAVUJ_AI_MODEL || 'gpt-4.1-mini' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/ai_enrich.py
+
       - name: Prepare published site
         shell: bash
         run: |
