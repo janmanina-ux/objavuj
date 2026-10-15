@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:49:44+00:00",
+  "updated": "2026-10-15T13:03:20+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
@@ -98,6 +98,18 @@
       "relevance": 53
     },
     {
+      "id": "https://www.asb.sk/aktualne/nova-autobusova-stanica-v-rajci-ma-zlepsit-cestovanie-v-regione",
+      "tag": "Urbanizmus",
+      "title": "Nová autobusová stanica v Rajci má zlepšiť cestovanie v regióne. Mesto čaká osem mesiacov prác",
+      "summary": "Po rokoch príprav sa v Rajci začína výstavba novej autobusovej stanice, ktorá má zlepšiť podmienky pre cestujúcich aj autobusovú dopravu v celej Rajeckej doline. Súčasný priestor nahradí modernejšie zázemie. Investícia za približne 1,2 milióna eur prinesie aj zmeny v okolí stanice, počas výstavby však cestujúci musia počítať s dočasnými obmedzeniami.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/aktualne/nova-autobusova-stanica-v-rajci-ma-zlepsit-cestovanie-v-regione",
+      "date": "2026-10-15T12:50:04+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 44
+    },
+    {
       "id": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
       "tag": "Urbanizmus",
       "title": "Prešov ukončil prvú etapu obnovy jazdeckého areálu. Jazdiareň dostala novú fasádu aj strechu",
@@ -134,16 +146,16 @@
       "relevance": 35
     },
     {
-      "id": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
-      "tag": "Urbanizmus",
-      "title": "Hybridné drevostavby: Ako prekonať konštrukčné limity dreva",
-      "summary": "Drevostavby sú dôležitou súčasťou udržateľného stavebníctva. Vďaka prefabrikácii a nízkej uhlíkovej stope sa využívajú ako bytové aj administratívne budovy, školy, zdravotnícke zariadenia aj stavby občianskej vybavenosti.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
-      "date": "2026-10-15T01:00:57+00:00",
+      "id": "https://vedanadosah.cvtisr.sk/ludia/malovanie-ako-digitalny-detox/",
+      "tag": "Veda",
+      "title": "Maľovanie ako digitálny detox",
+      "summary": "V dnešnej dobe smartfónov sú naše oči nepretržite vystavované modrému svetlu displejov. Náš limit pozornosti sa skracuje a spoločnosť hľadá alternatívy, ktoré ponúkajú digitálny detox. Maľovanie opäť prichádza na scénu. Vedci a psychológovia ho prirovnávajú ku kognitívnemu a k emocionálnemu resetu.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ludia/malovanie-ako-digitalny-detox/",
+      "date": "2026-10-15T12:55:34+00:00",
       "type": "rss",
-      "topic": "Urbanizmus",
-      "relevance": 35
+      "topic": "Veda",
+      "relevance": 33
     },
     {
       "id": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
@@ -246,5 +258,6 @@
   ],
   "successful_sources": 2,
   "configured_sources": 5,
-  "selection_method": "topic-keywords-v1"
+  "selection_method": "topic-keywords-v2",
+  "max_age_days": 120
 }
