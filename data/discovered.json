@@ -1,0 +1,17 @@
+{
+  "updated": null,
+  "articles": [],
+  "errors": [
+    {
+      "source": "MTBIKER – bikepacking",
+      "reason": "robots.txt does not allow retrieval"
+    },
+    {
+      "source": "MTBIKER – cyklistika",
+      "reason": "robots.txt does not allow retrieval"
+    }
+  ],
+  "successful_sources": 0,
+  "configured_sources": 2,
+  "note": "Len automaticky objavené titulky a odkazy; nejde o RSS, súhrny článkov ani AI texty."
+}
