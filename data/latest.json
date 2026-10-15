@@ -1,45 +1,17 @@
 {
-  "updated": "2026-10-15T11:00:43+00:00",
+  "updated": "2026-10-15T11:49:44+00:00",
   "articles": [
     {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
-      "tag": "Veda",
-      "title": "V Indii objavili skameneliny pravekého hada, ktorý mohol merať až 15 metrov",
-      "summary": "Kolosálny prehistorický had, ktorý žil v Indii približne pred 47 miliónmi rokov, mohol byť jedným z najväčších hadov, aké kedy existovali.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
-      "date": "2026-10-15T10:55:18+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
+      "id": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
       "tag": "Urbanizmus",
-      "title": "Prešov ukončil prvú etapu obnovy jazdeckého areálu. Jazdiareň dostala novú fasádu aj strechu",
-      "summary": "Mesto Prešov ukončilo prvú etapu obnovy jazdeckého areálu na Jazdeckej ulici za približne 1,84 milióna eur s DPH, z ktorých 1,5 milióna eur pokryl príspevok z Fondu na podporu športu. Na druhú etapu má mesto zabezpečenú ďalšiu štátnu podporu vo výške približne dva milióny eur. Cieľom projektu je vytvoriť moderné jazdecké centrum pre deti a mládež Slovenska. Informoval o tom hovorca mesta Prešov Michal Hudák.",
+      "title": "Obľúbené ihrisko na Jakubovom námestí je späť. Po rekonštrukcii ponúka množstvo herných prvkov aj priestor na oddych",
+      "summary": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou. Po rekonštrukcii ponúka množstvo herných a športových prvkov pre rôzne vekové kategórie, nové zázemie aj priestor na oddych. Obnova ihriska je zároveň prvým krokom k postupnej premene celého Jakubovho námestia. Čo bude nasledovať?",
       "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
-      "date": "2026-10-15T09:35:28+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
-      "tag": "Veda",
-      "title": "Biela palica sa do sveta rozšírila z Paríža. Vďačíme za ňu Francúzke Guilly d’Herbemontovej",
-      "summary": "Guilly d’Herbemontová prejavila empatiu a iniciatívu, keď navrhla používanie bielej palice pre ľudí so zrakovým postihnutím.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
-      "date": "2026-10-15T09:03:59+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
-      "tag": "Urbanizmus",
-      "title": "Tri roky výstavby druhej etapy severného obchvatu Prešova",
-      "summary": "Úsek R4 Prešov – severný obchvat, II. etapa, tvorí časť dopravnej siete EÚ TEN-T, ktorá je súčasťou medzinárodného európskeho ťahu E 371 v smere sever – juh. Realizáciou tejto etapy sa prepojí diaľnica D1 a budúca rýchlostná cesta R4 Kapušany – Giraltovce, čím sa výrazne odľahčí doprava v meste Prešov. Realizovaný úsek skráti čas jazdy o 7 minút. Hlavná trasa je štvorpruhová, smerovo rozdelená, kategórie R 24,5/100, s celkovou",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
-      "date": "2026-10-15T08:54:20+00:00",
-      "type": "rss"
+      "url": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
+      "date": "2026-10-14T13:20:10+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 89
     },
     {
       "id": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
@@ -49,47 +21,9 @@
       "source": "ASB",
       "url": "https://www.asb.sk/development/zicherhouse-prinesie-nove-byvanie-na-divadelnu-ulicu-v-trnave",
       "date": "2026-10-15T08:07:17+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
-      "tag": "Veda",
-      "title": "Radka Michalková skúma, ako môžu nanočastice bojovať proti rakovine mozgu. U každého pacienta je nádor iný",
-      "summary": "Glioblastóm je najagresívnejším nádorom mozgu a je veľmi ťažké ho liečiť.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
-      "date": "2026-10-15T03:55:35+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
-      "tag": "Urbanizmus",
-      "title": "Hybridné drevostavby: Ako prekonať konštrukčné limity dreva",
-      "summary": "Drevostavby sú dôležitou súčasťou udržateľného stavebníctva. Vďaka prefabrikácii a nízkej uhlíkovej stope sa využívajú ako bytové aj administratívne budovy, školy, zdravotnícke zariadenia aj stavby občianskej vybavenosti.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
-      "date": "2026-10-15T01:00:57+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/stavebnictvo/efaktura-v-stavebnictve-pripravte-sa-este-tento-rok",
-      "tag": "Urbanizmus",
-      "title": "eFaktúra v stavebníctve: Pripravte sa ešte tento rok",
-      "summary": "Od 1. januára 2027 už faktúra v PDF poslaná e-mailom nebude stačiť. Platitelia DPH budú musieť faktúry vystavovať a prijímať ako eFaktúry. Stavebné odvetvie, kde sa fakturujú zálohy, čiastkové plnenia, zádržné či subdodávky, tak čaká zmena, na ktorú sa oplatí pripraviť včas.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/efaktura-v-stavebnictve-pripravte-sa-este-tento-rok",
-      "date": "2026-10-15T01:00:22+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
-      "tag": "Urbanizmus",
-      "title": "Hliníková fasáda v službách dreva: COOP Jednota Prievidza",
-      "summary": "V centre Prievidze vyrástol za sedem mesiacov areál COOP Jednota – mestotvorný priestor s pasážou, kaviarňou a zelenou strechou, ocenený v Stavbe roka 2025. Do modernej „drevenice” od FVA Architekti dodal ALUPLAST s.r.o. Prievidza hliníkovú fasádu, presklenia a tienenie.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
-      "date": "2026-10-14T14:02:56+00:00",
-      "type": "rss"
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 71
     },
     {
       "id": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
@@ -99,97 +33,45 @@
       "source": "ASB",
       "url": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
       "date": "2026-10-14T14:00:45+00:00",
-      "type": "rss"
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 62
     },
     {
-      "id": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
+      "id": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
       "tag": "Urbanizmus",
-      "title": "Obľúbené ihrisko na Jakubovom námestí je späť. Po rekonštrukcii ponúka množstvo herných prvkov aj priestor na oddych",
-      "summary": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou. Po rekonštrukcii ponúka množstvo herných a športových prvkov pre rôzne vekové kategórie, nové zázemie aj priestor na oddych. Obnova ihriska je zároveň prvým krokom k postupnej premene celého Jakubovho námestia. Čo bude nasledovať?",
+      "title": "Nová štvrť na okraji Rače. Výšiny ponúknu bývanie, garni hotel aj centrálny park",
+      "summary": "Na okraji bratislavskej Rače, medzi existujúcou zástavbou a vinohradmi pod Malými Karpatmi, sa pripravuje nový obytný súbor. Šesť samostatných objektov do lokality prinesie viac ako len byty. Ak zámer prejde povoľovaním, výstavba by sa mohla začať už koncom roka 2027.",
       "source": "ASB",
-      "url": "https://www.asb.sk/architektura/urbanizmus/oblubene-ihrisko-na-jakubovom-namesti-je-spat",
-      "date": "2026-10-14T13:20:10+00:00",
-      "type": "rss"
+      "url": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
+      "date": "2026-10-14T06:47:14+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 62
     },
     {
-      "id": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
-      "tag": "Veda",
-      "title": "Kvíz: Spoznáte biele motýle našej prírody?",
-      "summary": "Biele motýle patria k najznámejším druhom denného hmyzu. Otestujte si vedomosti o beláskoch, ich znakoch a spôsobe života.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
-      "date": "2026-10-14T12:55:59+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/richard-rybnicek-sa-stal-osobnostou-roka-v-nasom-hlasovani",
+      "id": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
       "tag": "Urbanizmus",
-      "title": "Trenčín má víziu. Richard Rybníček sa vďaka nej stal osobnosťou roka v našom hlasovaní",
-      "summary": "Posledný septembrový štvrtok patrí každý rok prestížnemu oceneniu ASB GALA. Udeľuje sa na ňom okrem iných aj špeciálna cena. V tomto ročníku putovala do rúk Richarda Rybníčka, primátora Trenčína.",
+      "title": "SKY PARK Tower je v polovici výstavby. V októbri išli do predaja 4-izbové byty",
+      "summary": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14. nadzemnom podlaží. Práce sa majú skončiť v roku 2027, začali sa v roku 2024.",
       "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/richard-rybnicek-sa-stal-osobnostou-roka-v-nasom-hlasovani",
-      "date": "2026-10-14T11:03:41+00:00",
-      "type": "rss"
+      "url": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
+      "date": "2026-10-13T14:08:25+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 62
     },
     {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
+      "id": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
       "tag": "Veda",
-      "title": "Rover Perseverance dosiahol nový rekord pri prieskume Marsu",
-      "summary": "Za tento úspech rover Perseverance vo veľkej miere vďačí svojej schopnosti autonómneho pohybu.",
+      "title": "V Indii objavili skameneliny pravekého hada, ktorý mohol merať až 15 metrov",
+      "summary": "Kolosálny prehistorický had, ktorý žil v Indii približne pred 47 miliónmi rokov, mohol byť jedným z najväčších hadov, aké kedy existovali.",
       "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
-      "date": "2026-10-14T10:55:15+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/slovensko-vyhralo-arbitraz-o-tunel-visnove-jeho-byvaly-zhotovitel-ma-zaplatit-35-milionov-eur",
-      "tag": "Urbanizmus",
-      "title": "Slovensko vyhralo arbitráž o tunel Višňové. Jeho bývalý zhotoviteľ má zaplatiť 35 miliónov eur",
-      "summary": "Slovensko uspelo v arbitrážnom spore medzi Národnou diaľničnou spoločnosťou (NDS) a bývalým taliansko-slovenským zhotoviteľom diaľnice D1 Lietavská Lúčka – Dubná Skala s tunelom Višňové. Konzorcium spoločností Webuild (predtým Salini Impregilo) a Dúha má zaplatiť SR približne 35 miliónov eur. Rozhodol o tom arbitrážny súd vo Viedni, informoval v stredu na tlačovej besede minister dopravy SR Jozef Ráž. Štát má zaplatiť konzorci",
-      "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/slovensko-vyhralo-arbitraz-o-tunel-visnove-jeho-byvaly-zhotovitel-ma-zaplatit-35-milionov-eur",
-      "date": "2026-10-14T09:44:56+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
-      "tag": "Veda",
-      "title": "Ministerstvo školstva modernizuje prípravu budúcich IT špecialistov. Investuje do laboratórií, AI cloudu aj kvantových technológií",
-      "summary": "Ministerstvo školstva posúva do realizácie projekt modernizácie vzdelávania budúcich IT špecialistov. Po zmapovaní potrieb škôl a po verejnom obstarávaní prichádza konkrétne vybavenie pre stredné školy: moderné sieťové laboratóriá, malé kvantové počítače a spoločný výkonný AI cloud. Projekt prepája 80 stredných škôl a štyri vysoké školy a počíta aj so vzdelávaním približne 300 pedagógov.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
-      "date": "2026-10-14T08:55:47+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
-      "tag": "Veda",
-      "title": "Ďalšia nádejná liečba obezity na dosah: nová injekcia spôsobuje samodeštrukciu tukových buniek",
-      "summary": "Sľubná nová injekcia ničí tukové bunky, znižuje množstvo nebezpečného brušného tuku a mohla by pomôcť zabrániť opätovnému priberaniu na váhe.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
-      "date": "2026-10-14T03:55:07+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
-      "tag": "Veda",
-      "title": "Vanilka môže liečiť rany či infekcie, kľúčová je jedna zložka",
-      "summary": "Charakteristická aromatická zložka tohto korenia by mohla pomáhať v boji proti infekciám, zmierňovať zápaly a zlepšovať starostlivosť o rany.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
-      "date": "2026-10-13T12:55:35+00:00",
-      "type": "rss"
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
-      "tag": "Veda",
-      "title": "Čo ovplyvňuje vzájomný výber rastlín a opeľovačov? Klíma alebo mapa?",
-      "summary": "Rastúce teploty a premeny zrážok môžu ovplyvniť rozšírenie jednotlivých druhov, čas kvitnutia rastlín i aktivitu opeľovačov.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
-      "date": "2026-10-13T10:55:20+00:00",
-      "type": "rss"
+      "url": "https://vedanadosah.cvtisr.sk/priroda/zem/v-indii-objavili-skameneliny-pravekeho-hada-ktory-mohol-merat-az-15-metrov/",
+      "date": "2026-10-15T10:55:18+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 60
     },
     {
       "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
@@ -199,7 +81,153 @@
       "source": "Veda na dosah",
       "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
       "date": "2026-10-13T08:55:22+00:00",
-      "type": "rss"
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 60
+    },
+    {
+      "id": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
+      "tag": "Urbanizmus",
+      "title": "Hliníková fasáda v službách dreva: COOP Jednota Prievidza",
+      "summary": "V centre Prievidze vyrástol za sedem mesiacov areál COOP Jednota – mestotvorný priestor s pasážou, kaviarňou a zelenou strechou, ocenený v Stavbe roka 2025. Do modernej „drevenice” od FVA Architekti dodal ALUPLAST s.r.o. Prievidza hliníkovú fasádu, presklenia a tienenie.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/stavebnictvo/hlinikova-fasada-v-sluzbach-dreva-coop-jednota-prievidza",
+      "date": "2026-10-14T14:02:56+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 53
+    },
+    {
+      "id": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
+      "tag": "Urbanizmus",
+      "title": "Prešov ukončil prvú etapu obnovy jazdeckého areálu. Jazdiareň dostala novú fasádu aj strechu",
+      "summary": "Mesto Prešov ukončilo prvú etapu obnovy jazdeckého areálu na Jazdeckej ulici za približne 1,84 milióna eur s DPH, z ktorých 1,5 milióna eur pokryl príspevok z Fondu na podporu športu. Na druhú etapu má mesto zabezpečenú ďalšiu štátnu podporu vo výške približne dva milióny eur. Cieľom projektu je vytvoriť moderné jazdecké centrum pre deti a mládež Slovenska. Informoval o tom hovorca mesta Prešov Michal Hudák.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/aktualne/presov-ukoncil-prvu-etapu-obnovy-jazdeckeho-arealu",
+      "date": "2026-10-15T09:35:28+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 44
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
+      "tag": "Veda",
+      "title": "Ministerstvo školstva modernizuje prípravu budúcich IT špecialistov. Investuje do laboratórií, AI cloudu aj kvantových technológií",
+      "summary": "Ministerstvo školstva posúva do realizácie projekt modernizácie vzdelávania budúcich IT špecialistov. Po zmapovaní potrieb škôl a po verejnom obstarávaní prichádza konkrétne vybavenie pre stredné školy: moderné sieťové laboratóriá, malé kvantové počítače a spoločný výkonný AI cloud. Projekt prepája 80 stredných škôl a štyri vysoké školy a počíta aj so vzdelávaním približne 300 pedagógov.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/ministerstvo-skolstva-modernizuje-pripravu-buducich-it-specialistov-investuje-do-laboratorii-ai-cloudu-aj-kvantovych-technologii/",
+      "date": "2026-10-14T08:55:47+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 44
+    },
+    {
+      "id": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
+      "tag": "Urbanizmus",
+      "title": "Tri roky výstavby druhej etapy severného obchvatu Prešova",
+      "summary": "Úsek R4 Prešov – severný obchvat, II. etapa, tvorí časť dopravnej siete EÚ TEN-T, ktorá je súčasťou medzinárodného európskeho ťahu E 371 v smere sever – juh. Realizáciou tejto etapy sa prepojí diaľnica D1 a budúca rýchlostná cesta R4 Kapušany – Giraltovce, čím sa výrazne odľahčí doprava v meste Prešov. Realizovaný úsek skráti čas jazdy o 7 minút. Hlavná trasa je štvorpruhová, smerovo rozdelená, kategórie R 24,5/100, s celkovou",
+      "source": "ASB",
+      "url": "https://www.asb.sk/stavebnictvo/inzinierske-stavby/tri-roky-vystavby-druhej-etapy-severneho-obchvatu-presova",
+      "date": "2026-10-15T08:54:20+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 35
+    },
+    {
+      "id": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
+      "tag": "Urbanizmus",
+      "title": "Hybridné drevostavby: Ako prekonať konštrukčné limity dreva",
+      "summary": "Drevostavby sú dôležitou súčasťou udržateľného stavebníctva. Vďaka prefabrikácii a nízkej uhlíkovej stope sa využívajú ako bytové aj administratívne budovy, školy, zdravotnícke zariadenia aj stavby občianskej vybavenosti.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/stavebnictvo/hybridne-drevostavby-ako-prekonat-konstrukcne-limity-dreva",
+      "date": "2026-10-15T01:00:57+00:00",
+      "type": "rss",
+      "topic": "Urbanizmus",
+      "relevance": 35
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
+      "tag": "Veda",
+      "title": "Biela palica sa do sveta rozšírila z Paríža. Vďačíme za ňu Francúzke Guilly d’Herbemontovej",
+      "summary": "Guilly d’Herbemontová prejavila empatiu a iniciatívu, keď navrhla používanie bielej palice pre ľudí so zrakovým postihnutím.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ludia/filozofia-etika-a-teologia/biela-palica-sa-do-sveta-rozsirila-z-pariza-vdacime-za-nu-francuzke-guilly-dherbemontovej/",
+      "date": "2026-10-15T09:03:59+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
+      "tag": "Veda",
+      "title": "Radka Michalková skúma, ako môžu nanočastice bojovať proti rakovine mozgu. U každého pacienta je nádor iný",
+      "summary": "Glioblastóm je najagresívnejším nádorom mozgu a je veľmi ťažké ho liečiť.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/technika/nanotechnologie/radka-michalkova-skuma-ako-mozu-nanocastice-bojovat-proti-rakovine-mozgu-u-kazdeho-pacienta-je-nador-iny/",
+      "date": "2026-10-15T03:55:35+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
+      "tag": "Veda",
+      "title": "Kvíz: Spoznáte biele motýle našej prírody?",
+      "summary": "Biele motýle patria k najznámejším druhom denného hmyzu. Otestujte si vedomosti o beláskoch, ich znakoch a spôsobe života.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/kvizy/kviz-spoznate-biele-motyle-nasej-prirody/",
+      "date": "2026-10-14T12:55:59+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
+      "tag": "Veda",
+      "title": "Rover Perseverance dosiahol nový rekord pri prieskume Marsu",
+      "summary": "Za tento úspech rover Perseverance vo veľkej miere vďačí svojej schopnosti autonómneho pohybu.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/rover-perseverance-dosiahol-novy-rekord-pri-prieskume-marsu/",
+      "date": "2026-10-14T10:55:15+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
+      "tag": "Veda",
+      "title": "Ďalšia nádejná liečba obezity na dosah: nová injekcia spôsobuje samodeštrukciu tukových buniek",
+      "summary": "Sľubná nová injekcia ničí tukové bunky, znižuje množstvo nebezpečného brušného tuku a mohla by pomôcť zabrániť opätovnému priberaniu na váhe.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/zdravie/farmacia/dalsia-nadejna-liecba-obezity-na-dosah-nova-injekcia-sposobuje-samodestrukciu-tukovych-buniek/",
+      "date": "2026-10-14T03:55:07+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
+      "tag": "Veda",
+      "title": "Vanilka môže liečiť rany či infekcie, kľúčová je jedna zložka",
+      "summary": "Charakteristická aromatická zložka tohto korenia by mohla pomáhať v boji proti infekciám, zmierňovať zápaly a zlepšovať starostlivosť o rany.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vanilka-moze-liecit-rany-ci-infekcie-klucova-je-jedna-zlozka/",
+      "date": "2026-10-13T12:55:35+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
+      "tag": "Veda",
+      "title": "Čo ovplyvňuje vzájomný výber rastlín a opeľovačov? Klíma alebo mapa?",
+      "summary": "Rastúce teploty a premeny zrážok môžu ovplyvniť rozšírenie jednotlivých druhov, čas kvitnutia rastlín i aktivitu opeľovačov.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/biologia/co-ovplyvnuje-vzajomny-vyber-rastlin-a-opelovacov-klima-alebo-mapa/",
+      "date": "2026-10-13T10:55:20+00:00",
+      "type": "rss",
+      "topic": "Veda",
+      "relevance": 33
     }
   ],
   "errors": [
@@ -217,5 +245,6 @@
     }
   ],
   "successful_sources": 2,
-  "configured_sources": 5
+  "configured_sources": 5,
+  "selection_method": "topic-keywords-v1"
 }
