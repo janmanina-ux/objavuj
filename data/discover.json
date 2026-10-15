@@ -1,0 +1,70 @@
+{
+  "description": "Odporúčané tematické rozcestníky k webom bez overeného funkčného RSS. Aktualizujú sa iba pri novom release; nie sú to automaticky stiahnuté články.",
+  "last_curated": "2026-10-15",
+  "resources": [
+    {
+      "topic": "Bikepacking",
+      "title": "MTBIKER – bikepacking",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/bikepacking",
+      "note": "Praktické seriály o balení, trasách a viacdňových výjazdoch.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Bikepacking",
+      "title": "MTBIKER – cyklistika",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky/cyklistika",
+      "note": "Výber článkov, testov a skúseností s bicyklovaním.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hory",
+      "title": "MTBIKER – outdoor",
+      "language": "SK",
+      "url": "https://www.mtbiker.sk/clanky",
+      "note": "Turistika, lezenie, ferraty a skialpinizmus; na portáli môžeš filtrovať outdoorové témy.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hory",
+      "title": "Hiking.sk",
+      "language": "SK",
+      "url": "https://www.hiking.sk/",
+      "note": "Slovenské hory, turistické výstupy a cestopisné články.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Hudba",
+      "title": "Frontman – hudobné články",
+      "language": "CS",
+      "url": "https://www.frontman.cz/",
+      "note": "Rozhovory s hudobníkmi, tvorba, nástroje a hudobný život.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Urbanizmus",
+      "title": "ASB – urbanizmus",
+      "language": "SK",
+      "url": "https://www.asb.sk/architektura/urbanizmus",
+      "note": "Premeny mestských priestorov a urbanistické projekty.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Veda",
+      "title": "Vedátor",
+      "language": "SK",
+      "url": "https://vedator.space/",
+      "note": "Vedecké zaujímavosti, vysvetlenia a komentáre.",
+      "source_type": "website_directory"
+    },
+    {
+      "topic": "Jachting",
+      "title": "Europe Class UK – tuning guides",
+      "language": "EN",
+      "url": "https://www.europeclass.org.uk/technical/tuning-guides",
+      "note": "Technické informácie a trim pre triedu Europa; skôr knižnica než denný feed.",
+      "source_type": "website_directory"
+    }
+  ]
+}

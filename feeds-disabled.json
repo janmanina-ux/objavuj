@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MTBIKER",
+    "category": "Bikepacking",
+    "url": "https://www.mtbiker.sk/rss",
+    "disabled_reason": "HTTP 404 observed on 2026-10-15; replace only after verifying a working feed URL"
+  },
+  {
+    "name": "Frontman",
+    "category": "Hudba",
+    "url": "https://www.frontman.cz/feed",
+    "disabled_reason": "HTTP 404 observed on 2026-10-15; replace only after verifying a working feed URL"
+  },
+  {
+    "name": "MTHIKER",
+    "category": "Hory",
+    "url": "https://www.mthiker.sk/rss",
+    "disabled_reason": "HTTP 404 observed on 2026-10-15; replace only after verifying a working feed URL"
+  }
+]

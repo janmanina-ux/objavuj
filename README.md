@@ -52,3 +52,8 @@ Pozri `V10-CHANGES.md`. Predvolene vypnuté a bezpečné pre bezplatný release.
 
 ## v11: controlled comparison before cloud rollout
 See `TEST-AI.md` and `V11-CHANGES.md`. Test script does not call APIs without explicit `--execute` and an API key; the existing scheduled workflow remains opt-in for enrichment.
+
+
+## Release 12
+
+Pozri `V12-CHANGES.md` pre zapnutie automatického AI spracovania, limity a bezpečnostné poznámky.

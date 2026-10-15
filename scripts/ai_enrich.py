@@ -36,7 +36,7 @@ def main():
         return 0
     model=os.getenv('OBJAVUJ_AI_MODEL','gpt-4.1-mini')
     # hard cap per run, to limit spend; actual price depends on model and tokens
-    limit=max(0,min(int(os.getenv('OBJAVUJ_AI_MAX_PER_RUN','3')),5))
+    limit=max(0,min(int(os.getenv('OBJAVUJ_AI_MAX_PER_RUN','10')),10))
     raw=json.loads(FILE.read_text(encoding='utf-8'))
     articles=raw.get('articles',[])
     calls=0; successes=0

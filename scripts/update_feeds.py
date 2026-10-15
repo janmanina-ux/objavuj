@@ -164,6 +164,7 @@ previous=[]
 if DEST.exists():
     try: previous=json.loads(DEST.read_text(encoding='utf-8')).get('articles',[])
     except (OSError, ValueError, TypeError): pass
+previous_by_id={row.get('id'):row for row in previous if row.get('id')}
 for feed in CONFIG:
     try:
         rows=fetch(feed)
@@ -171,7 +172,12 @@ for feed in CONFIG:
         success+=1
         print(f"OK {feed['name']} {len(rows)}",flush=True)
         for row in rows:
-            if row['id'] not in seen and recent_enough(row,now): items.append(rank(row));seen.add(row['id'])
+            if row['id'] not in seen and recent_enough(row,now):
+                old=previous_by_id.get(row['id'], {})
+                # Cache is valid only while the original RSS excerpt remains unchanged.
+                if old.get('ai_learning') and old.get('summary') == row.get('summary'):
+                    row['ai_learning']=old['ai_learning']
+                items.append(rank(row));seen.add(row['id'])
     except Exception as ex:
         errors.append({'source':feed['name'],'reason':str(ex)[:160]})
         print(f"ERROR {feed['name']}: {ex}",file=sys.stderr)
@@ -198,7 +204,7 @@ for row in items:
     selected.append(row)
     if len(selected)>=LIMIT: break
 DEST.parent.mkdir(parents=True,exist_ok=True)
-payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v4-excerpt-learning','editorial_notice':'Vzdelávacie otázky a zvýraznené vety sú odvodené len z RSS úryvkov. Nie sú to AI súhrny ani celé články.','max_age_days':MAX_AGE_DAYS}
+payload={'updated':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),'articles':selected,'errors':errors,'successful_sources':success,'configured_sources':len(CONFIG),'selection_method':'topic-keywords-v4-excerpt-learning','editorial_notice':'Niektoré články obsahujú AI súhrn iba z RSS úryvku; ostatné obsahujú pôvodné úryvky a tematické otázky.','max_age_days':MAX_AGE_DAYS}
 DEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'Wrote {len(selected)} ranked items -> {DEST}; categories: {counts}')
 if success == 0:
