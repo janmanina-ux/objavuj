@@ -9,9 +9,25 @@
     {
       "source": "MTBIKER – cyklistika",
       "reason": "robots.txt does not allow retrieval"
+    },
+    {
+      "source": "MTBIKER – lezenie",
+      "reason": "robots.txt does not allow retrieval"
+    },
+    {
+      "source": "MTBIKER – stanovanie",
+      "reason": "robots.txt does not allow retrieval"
+    },
+    {
+      "source": "MTBIKER – oblečenie",
+      "reason": "robots.txt does not allow retrieval"
+    },
+    {
+      "source": "MTBIKER – ako na lezenie",
+      "reason": "robots.txt does not allow retrieval"
     }
   ],
   "successful_sources": 0,
-  "configured_sources": 2,
+  "configured_sources": 6,
   "note": "Len automaticky objavené titulky a odkazy; nejde o RSS, súhrny článkov ani AI texty."
 }
