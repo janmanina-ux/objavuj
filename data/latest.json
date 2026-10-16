@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:33:21+00:00",
+  "updated": "2026-10-16T09:54:10+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -61,6 +61,37 @@
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/aktualne/novy-most-medzi-vajnorami-a-ciernou-vodou",
+      "tag": "Urbanizmus",
+      "title": "Starý zbúrajú, postavia druhý. Nový most medzi Vajnorami a Čiernou Vodou zlepší aj podmienky pre cyklistov",
+      "summary": "Most ponad Šúrsky kanál medzi Chorvátskym Grobom a mestskou časťou Bratislava-Vajnory je vo veľmi zlom technickom stave a bežné opravy už nestačia. Bratislavský samosprávny kraj (BSK) preto pripravuje jeho kompletnú prestavbu. Nový most bude širší, bezpečnejší a zlepší aj podmienky pre cyklistov na cyklotrase Jurava. Stavebné práce sa začnú v novembri 2026 a potrvajú do tretieho kvartálu 2027. Rekonštrukcia si vyžiada úplnú uz",
+      "source": "ASB",
+      "url": "https://www.asb.sk/aktualne/novy-most-medzi-vajnorami-a-ciernou-vodou",
+      "date": "2026-10-16T07:39:52+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/most-vajnory-4-840x560.jpg",
+      "topic": "Bikepacking",
+      "relevance": 71,
+      "read_minutes_excerpt": 1,
+      "why_read": "Môže pomôcť pri príprave výjazdu, tréningu alebo výbavy.",
+      "learning": {
+        "excerpt_highlight": "Most ponad Šúrsky kanál medzi Chorvátskym Grobom a mestskou časťou Bratislava-Vajnory je vo veľmi zlom technickom stave a bežné opravy už nestačia.",
+        "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Most ponad Šúrsky kanál medzi Chorvátskym Grobom a Bratislavou-Vajnorami je v zlom stave, plánuje sa jeho kompletná prestavba. Nový most bude širší, bezpečnejší a lepšie prispôsobený cyklistom na cyklotrase Jurava. Stavebné práce sú plánované od novembra 2026 do tretieho kvartálu 2027.",
+        "takeaways": [
+          "Most je vo veľmi zlom technickom stave, bežné opravy nestačia.",
+          "Nový most bude širší a bezpečnejší pre všetkých používateľov.",
+          "Zlepšia sa podmienky pre cyklistov na cyklotrase Jurava."
+        ],
+        "question": "Ako môže obnova mosta ovplyvniť každodenný život obyvateľov a cyklistov v regióne?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -154,6 +185,37 @@
         "excerpt_highlight": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/ine/lauretatom-eset-science-award-2026-je-materialovy-vedec-dusan-galusek/",
+      "tag": "Veda",
+      "title": "Lauretátom ESET Science Award 2026 je materiálový vedec Dušan Galusek",
+      "summary": "Ôsmy ročník ocenenia ESET Science Award pozná svojich laureátov a laureátky. Výnimočnou osobnosťou vedy na Slovensku sa stal Dušan Galusek, ktorý vedie centrum FunGlass na Trenčianskej univerzite Alexandra Dubčeka v Trenčíne.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ine/lauretatom-eset-science-award-2026-je-materialovy-vedec-dusan-galusek/",
+      "date": "2026-10-16T07:01:56+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Ôsmy ročník ocenenia ESET Science Award pozná svojich laureátov a laureátky.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      },
+      "ai_learning": {
+        "overview": "Laureátom ESET Science Award 2026 sa stal materiálový vedec Dušan Galusek, vedúci centra FunGlass na Trenčianskej univerzite Alexandra Dubčeka v Trenčíne.",
+        "takeaways": [
+          "Dušan Galusek získal ocenenie ESET Science Award 2026.",
+          "Je vedúcim centra FunGlass na Trenčianskej univerzite v Trenčíne.",
+          "Ide o ôsmy ročník tohto ocenenia pre slovenských vedcov."
+        ],
+        "question": "Aký význam má ESET Science Award pre rozvoj vedy na Slovensku?",
+        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
+        "model": "gpt-4.1-mini"
       }
     },
     {
@@ -293,8 +355,8 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 0,
-    "succeeded": 0,
+    "attempted": 2,
+    "succeeded": 2,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
   }
