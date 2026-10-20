@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T10:51:10+00:00",
+  "updated": "2026-10-20T10:08:04+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -29,6 +29,26 @@
       "learning": {
         "excerpt_highlight": "Nedostatok parkovacích miest a kvalitných športovísk patrí medzi časté problémy slovenských sídlisk.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/svietiace-satelity-rusia-astronomov-pri-pozorovani-vesmiru-ako-sa-zbavime-svetelneho-a-radioveho-znecistenia/",
+      "tag": "Veda",
+      "title": "Svietiace satelity rušia astronómov pri pozorovaní vesmíru. Ako sa zbavíme svetelného a rádiového znečistenia?",
+      "summary": "Množstvo satelitov a vesmírneho odpadu na obežnej dráhe blokuje pozemným teleskopom výhľad na nočnú oblohu. Odborníci preto hľadajú technologické riešenia pre zachovanie nerušeného pohľadu na hviezdy.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/svietiace-satelity-rusia-astronomov-pri-pozorovani-vesmiru-ako-sa-zbavime-svetelneho-a-radioveho-znecistenia/",
+      "date": "2026-10-19T10:55:27+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 96,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Množstvo satelitov a vesmírneho odpadu na obežnej dráhe blokuje pozemným teleskopom výhľad na nočnú oblohu.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -289,32 +309,21 @@
       }
     },
     {
-      "id": "https://www.asb.sk/stavebnictvo/technicke-zariadenia-budov/otvorena-vzduchu-slnku-i-zemi-technicky-i-konstrukcne",
+      "id": "https://www.asb.sk/architektura/historicka-klinciaren-v-muranskej-hute-dostala-novy-zivot",
       "tag": "Urbanizmus",
-      "title": "Otvorená vzduchu, slnku i zemi. Technicky i konštrukčne",
-      "summary": "Je veľkoryso prepojená s okolím a obnoviteľnými energiami. Jej konštrukcia z otvorených oceľových montovaných profilov zrkadlí príbeh úspešnej rodinnej firmy. Architektúra predajne MASARYK pracuje s priznávaním a otvorenosťou.",
+      "title": "Chátrala a hrozila jej demolácia. Historická klinčiareň v Muránskej Hute dostala nový život",
+      "summary": "Jedna z najstarších budov v Muránskej Hute dostala po rokoch chátrania nový život. Jej obnova ukazuje, ako možno zachrániť architektonické dedičstvo a zmysluplne ho využiť pre miestnych obyvateľov i návštevníkov národného parku.",
       "source": "ASB",
-      "url": "https://www.asb.sk/stavebnictvo/technicke-zariadenia-budov/otvorena-vzduchu-slnku-i-zemi-technicky-i-konstrukcne",
-      "date": "2026-10-13T12:02:47+00:00",
+      "url": "https://www.asb.sk/architektura/historicka-klinciaren-v-muranskej-hute-dostala-novy-zivot",
+      "date": "2026-10-20T07:16:07+00:00",
       "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/1.Masaryk_photo-by-alex-shoots-buildings-840x560.jpg",
-      "ai_learning": {
-        "overview": "Úryvok popisuje architektúru predajne MASARYK, ktorá je technicky i konštrukčne otvorená vonkajšiemu prostrediu a využíva obnoviteľné energie. Detaily o celom článku chýbajú.",
-        "takeaways": [
-          "Predajňa MASARYK má otvorenú konštrukciu z oceľových profilov.",
-          "Budova je prepojená s okolím a využíva obnoviteľné zdroje energie.",
-          "Architektúra zdôrazňuje otvorenosť a priznávanie materiálov."
-        ],
-        "question": "Ako môže otvorená architektúra ovplyvniť vnímanie verejných priestorov v meste?",
-        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
-        "model": "gpt-4.1-mini"
-      },
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Untitled-Design-840x560.png",
       "topic": "Urbanizmus",
       "relevance": 53,
       "read_minutes_excerpt": 1,
       "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
       "learning": {
-        "excerpt_highlight": "Je veľkoryso prepojená s okolím a obnoviteľnými energiami.",
+        "excerpt_highlight": "Jedna z najstarších budov v Muránskej Hute dostala po rokoch chátrania nový život.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
@@ -333,7 +342,7 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 2,
+    "attempted": 4,
     "succeeded": 0,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
