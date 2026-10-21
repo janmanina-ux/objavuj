@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T10:08:04+00:00",
+  "updated": "2026-10-21T10:15:22+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -248,6 +248,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/podcast/podcast-martin-spano-co-pride-po-umelej-inteligencii-kvantova-era-moze-priniest-uplne-novu-matematiku/",
+      "tag": "Veda",
+      "title": "PODCAST: Martin Spano: Čo príde po umelej inteligencii? Kvantová éra môže priniesť úplne novú matematiku",
+      "summary": "Vypočujte si rozhovor s Martinom Spanom o umelej inteligencii, sociálnych sietiach a o tom, čo príde po nej.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/podcast/podcast-martin-spano-co-pride-po-umelej-inteligencii-kvantova-era-moze-priniest-uplne-novu-matematiku/",
+      "date": "2026-10-21T08:55:16+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Vypočujte si rozhovor s Martinom Spanom o umelej inteligencii, sociálnych sietiach a o tom, čo príde po nej.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/ine/lauretatom-eset-science-award-2026-je-materialovy-vedec-dusan-galusek/",
       "tag": "Veda",
       "title": "Lauretátom ESET Science Award 2026 je materiálový vedec Dušan Galusek",
@@ -342,7 +362,7 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 4,
+    "attempted": 5,
     "succeeded": 0,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
