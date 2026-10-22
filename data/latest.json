@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:15:22+00:00",
+  "updated": "2026-10-22T10:16:25+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -100,6 +100,26 @@
       "learning": {
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/na-kanarskych-ostrovoch-uviedli-do-prevadzky-najcitlivejsie-teleskopy-svojho-druhu-na-svete/",
+      "tag": "Veda",
+      "title": "Na Kanárskych ostrovoch uviedli do prevádzky najcitlivejšie teleskopy svojho druhu na svete",
+      "summary": "Teleskopy LST umožnia výskum najextrémnejších prostredí vo vesmíre, napríklad supermasívnych čiernych dier a neutrónových hviezd.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/na-kanarskych-ostrovoch-uviedli-do-prevadzky-najcitlivejsie-teleskopy-svojho-druhu-na-svete/",
+      "date": "2026-10-21T12:55:17+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 78,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Teleskopy LST umožnia výskum najextrémnejších prostredí vo vesmíre, napríklad supermasívnych čiernych dier a neutrónových hviezd.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -362,7 +382,7 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 5,
+    "attempted": 6,
     "succeeded": 0,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
