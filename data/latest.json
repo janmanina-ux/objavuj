@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:10:00+00:00",
+  "updated": "2026-10-24T09:35:56+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -268,6 +268,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/prva-fotografia-nasej-zeme-z-vesmiru-oslavuje-80-rokov/",
+      "tag": "Veda",
+      "title": "Prvá fotografia našej Zeme z vesmíru oslavuje 80 rokov",
+      "summary": "Pred 80 rokmi vznikla prvá fotografia Zeme z vesmíru. Umožnila ju nacistická raketa V2 v službách Spojených štátov amerických.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/prva-fotografia-nasej-zeme-z-vesmiru-oslavuje-80-rokov/",
+      "date": "2026-10-24T03:55:01+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Pred 80 rokmi vznikla prvá fotografia Zeme z vesmíru.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/podcast/podcast-martin-spano-co-pride-po-umelej-inteligencii-kvantova-era-moze-priniest-uplne-novu-matematiku/",
       "tag": "Veda",
       "title": "PODCAST: Martin Spano: Čo príde po umelej inteligencii? Kvantová éra môže priniesť úplne novú matematiku",
@@ -382,7 +402,7 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 6,
+    "attempted": 7,
     "succeeded": 0,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
