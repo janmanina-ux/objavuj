@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:11:53+00:00",
+  "updated": "2026-10-27T10:39:15+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -99,6 +99,26 @@
       "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
       "learning": {
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-kvp-meni-svoju-tvar",
+      "tag": "Urbanizmus",
+      "title": "Košické sídlisko KVP mení svoju tvár. Menej betónu, viac zelene",
+      "summary": "Košické Sídlisko KVP pokračuje v postupnej premene svojich verejných priestorov. V októbri dokončilo revitalizáciu Námestia fontány, historicky najväčší investičný projekt svojho druhu v mestskej časti. Čo ďalšie chystá pre svojich obyvateľov?",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-kvp-meni-svoju-tvar",
+      "date": "2026-10-27T07:00:06+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Untitled-Design-4-840x560.png",
+      "topic": "Urbanizmus",
+      "relevance": 80,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Košické Sídlisko KVP pokračuje v postupnej premene svojich verejných priestorov.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
@@ -366,26 +386,6 @@
         "question": "Aké faktory môžu ovplyvniť vznik ranných oblakov na Marse?",
         "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
         "model": "gpt-4.1-mini"
-      }
-    },
-    {
-      "id": "https://www.asb.sk/development/nove-obchodne-centrum-pre-stupavu",
-      "tag": "Urbanizmus",
-      "title": "Nové obchodné centrum pre Stupavu. Mesto podpísalo memorandum s investorom",
-      "summary": "Stupava sa pripravuje na výrazné rozšírenie nákupných možností. Na okraji mesta má vzniknúť nové obchodné centrum, ktorého súčasťou bude aj rozsiahle dopravné riešenie a úpravy verejného priestoru. Projekt sa postupne posúva v povoľovacom procese a mesto už s investorom nastavilo rámec ďalšej spolupráce.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/development/nove-obchodne-centrum-pre-stupavu",
-      "date": "2026-10-26T07:17:35+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/848027521_1631913888658827_8850864947394105053_n-840x560.jpeg",
-      "topic": "Urbanizmus",
-      "relevance": 53,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Stupava sa pripravuje na výrazné rozšírenie nákupných možností.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     }
   ],
