@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T10:39:15+00:00",
+  "updated": "2026-10-28T11:24:07+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -124,6 +124,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/michaela-musilova-by-sa-mohla-stat-prvou-slovenskou-astronautkou/",
+      "tag": "Veda",
+      "title": "Michaela Musilová by sa mohla stať prvou slovenskou astronautkou",
+      "summary": "Astrobiologička Michaela Musilová prijala ponuku pridať sa k posádke európskej misie ECM1 (First European Commercial Mission). Do vesmíru by mohla letieť už budúci rok ako prvá slovenská astronautka a prvá vedkyňa zo Slovenska. Počas medzinárodnej vesmírnej misie by viedla viacero vedeckých experimentov v spolupráci s inštitúciami v USA a v Európe vrátane Slovenska.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/michaela-musilova-by-sa-mohla-stat-prvou-slovenskou-astronautkou/",
+      "date": "2026-10-27T11:55:10+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 78,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Astrobiologička Michaela Musilová prijala ponuku pridať sa k posádke európskej misie ECM1 (First European Commercial Mission).",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/na-kanarskych-ostrovoch-uviedli-do-prevadzky-najcitlivejsie-teleskopy-svojho-druhu-na-svete/",
       "tag": "Veda",
       "title": "Na Kanárskych ostrovoch uviedli do prevádzky najcitlivejšie teleskopy svojho druhu na svete",
@@ -140,6 +160,66 @@
       "learning": {
         "excerpt_highlight": "Teleskopy LST umožnia výskum najextrémnejších prostredí vo vesmíre, napríklad supermasívnych čiernych dier a neutrónových hviezd.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/aktualne/kurz-deti-a-architektura-2026-temou-je-sportova-architektura",
+      "tag": "Urbanizmus",
+      "title": "Kurz Deti a architektúra 2026 je online. Aj tento rok je jeho súčasťou výtvarná súťaž, témou sú športové stavby",
+      "summary": "Čo má spoločné plážový volejbal pod Eiffelovkou, skejtpark pod bratislavským Mostom SNP a plávajúci bazén v rieke? Všetky ukazujú, že športová architektúra môže byť oveľa viac než ihrisko, tribúna či štadión. Práve na túto myšlienku sa pozerá nový ročník projektu Deti a architektúra. Kurz o športových stavbách je už online a zdarma dostupný.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/aktualne/kurz-deti-a-architektura-2026-temou-je-sportova-architektura",
+      "date": "2026-10-28T11:00:21+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/deti-architektura-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 71,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Čo má spoločné plážový volejbal pod Eiffelovkou, skejtpark pod bratislavským Mostom SNP a plávajúci bazén v rieke?",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/verejnost-moze-odteraz-vstupit-do-pripravy-uzemia-istrochem",
+      "tag": "Urbanizmus",
+      "title": "Ako sa zmení Istrochem? Verejnosť môže odteraz vstúpiť do prípravy územia",
+      "summary": "Bratislava stojí pred možnou transformáciou jedného zo svojich najväčších brownfieldov. Rozsiahle územie bývalého priemyselného areálu Istrochemu s rozlohou približne 1,6 milióna m² sa dnes nedostatočne využíva. Vzhľadom na svoju polohu a veľkosť môže jeho budúca premena výrazne ovplyvniť mestskú časť Nové Mesto aj širšie územie Bratislavy. Ešte pred prípravou konkrétneho urbanistického riešenia sa preto začína participácia s ",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/verejnost-moze-odteraz-vstupit-do-pripravy-uzemia-istrochem",
+      "date": "2026-10-28T02:00:57+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Brownfield2-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 71,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Bratislava stojí pred možnou transformáciou jedného zo svojich najväčších brownfieldov.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/revitalizacia-ruzinovskeho-jazera-ma-uzemne-rozhodnutie",
+      "tag": "Urbanizmus",
+      "title": "Po rokoch príprav prichádza posun. Revitalizácia Ružinovského jazera má územné rozhodnutie",
+      "summary": "Revitalizácia Ružinovského jazera sa po rokoch príprav posunula do ďalšej fázy. Projekt získal územné rozhodnutie, ktoré približuje plánovanú obnovu areálu k realizácii. Návrh počíta so zokruhovaním peších trás, novými mólami, úpravou brehov, doplnením zelene aj vytvorením mokrade a oddychových plôch.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/revitalizacia-ruzinovskeho-jazera-ma-uzemne-rozhodnutie",
+      "date": "2026-10-27T12:17:02+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Untitled-Design-5-840x560.png",
+      "topic": "Urbanizmus",
+      "relevance": 71,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Revitalizácia Ružinovského jazera sa po rokoch príprav posunula do ďalšej fázy.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -195,95 +275,22 @@
       }
     },
     {
-      "id": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
-      "tag": "Urbanizmus",
-      "title": "Michal Rehák z Penta Real Estate: Tento rok sa naša dlhoročná príprava na projektoch výraznejšie premieta do výstavby",
-      "summary": "„Našou stratégiou je rozvíjať rozsiahle projekty a komplexné mestské štvrte. Či už ide o Southbank, alebo o Chalupkovu, sú to územia, kde vytvárame ucelený mestský blok. Práve v takýchto projektoch dokážeme ponúknuť vyššiu kvalitu, najmä vzhľadom na verejný priestor a celkové fungovanie lokality,“ hovorí výkonný riaditeľ spoločnosti Penta Real Estate.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/development/michal-rehak-penta-real-estate-pripravuje-byty-v-piatich-lokalitach",
-      "date": "2026-10-14T14:00:45+00:00",
+      "id": "https://vedanadosah.cvtisr.sk/ine/matematika-nie-je-len-skolsky-predmet-je-to-zakladna-zrucnost-pre-zivot-a-buducnost-slovenska/",
+      "tag": "Veda",
+      "title": "Matematika nie je len školský predmet. Je to základná zručnosť pre život a budúcnosť Slovenska",
+      "summary": "Rozumieť číslam, vyhodnocovať informácie, rozhodovať o vlastných financiách či riešiť problémy. Matematika je základnou zručnosťou, ktorú potrebujeme v každodennom živote bez ohľadu na povolanie. Slovensko má však vážny problém s matematickou gramotnosťou. Ukazujú to medzinárodné merania aj skúsenosti škôl a univerzít. Ministerstvo školstva preto predstavilo päť vzájomne prepojených opatrení, ktoré majú zmeniť spôsob vyučovani",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ine/matematika-nie-je-len-skolsky-predmet-je-to-zakladna-zrucnost-pre-zivot-a-buducnost-slovenska/",
+      "date": "2026-10-28T04:55:26+00:00",
       "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/07/00Rehak-840x560.jpg",
-      "ai_learning": {
-        "overview": "Michal Rehák z Penta Real Estate hovorí, že tento rok sa ich dlhodobá príprava na projektoch začína výraznejšie prejavovať vo výstavbe. Firma sa zameriava na rozsiahle mestské projekty, ako Southbank či Chalupkova, kde vytvára ucelené mestské bloky a zlepšuje kvalitu verejných priestorov.",
-        "takeaways": [
-          "Penta Real Estate plánuje rozsiahle mestské štvrte ako Southbank a Chalupkova.",
-          "Ich cieľom je vytvárať ucelené mestské bloky s kvalitným verejným priestorom.",
-          "Výkonný riaditeľ zdôrazňuje význam celkového fungovania lokality v projektoch."
-        ],
-        "question": "Ako môže výstavba komplexných mestských blokov prispieť k lepšiemu fungovaniu mesta?",
-        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
-        "model": "gpt-4.1-mini"
-      },
-      "topic": "Urbanizmus",
-      "relevance": 62,
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
       "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
-        "excerpt_highlight": "„Našou stratégiou je rozvíjať rozsiahle projekty a komplexné mestské štvrte.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
-      "tag": "Urbanizmus",
-      "title": "Nová štvrť na okraji Rače. Výšiny ponúknu bývanie, garni hotel aj centrálny park",
-      "summary": "Na okraji bratislavskej Rače, medzi existujúcou zástavbou a vinohradmi pod Malými Karpatmi, sa pripravuje nový obytný súbor. Šesť samostatných objektov do lokality prinesie viac ako len byty. Ak zámer prejde povoľovaním, výstavba by sa mohla začať už koncom roka 2027.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/development/nova-stvrt-na-okraji-race-vysiny",
-      "date": "2026-10-14T06:47:14+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Snimka-obrazovky-2026-10-08-135819-840x560.png",
-      "ai_learning": {
-        "overview": "Na okraji bratislavskej Rače pripravujú nový obytný súbor s šiestimi objektmi medzi existujúcou zástavbou a vinohradmi. Projekt má priniesť byty, garni hotel aj centrálne parkové plochy. Výstavba môže začať koncom roka 2027, ak bude schválená.",
-        "takeaways": [
-          "Projekt sa nachádza medzi Račou a vinohradmi pri Malých Karpatoch.",
-          "V novej štvrti bude šesť samostatných objektov s rôznorodým využitím.",
-          "Výstavba by mohla začať koncom roka 2027, ak povolenia budú udelené."
-        ],
-        "question": "Ako môže nová výstavba ovplyvniť okolité vinohrady a prostredie Malých Karpát?",
-        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
-        "model": "gpt-4.1-mini"
-      },
-      "topic": "Urbanizmus",
-      "relevance": 62,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Na okraji bratislavskej Rače, medzi existujúcou zástavbou a vinohradmi pod Malými Karpatmi, sa pripravuje nový obytný súbor.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
-      "tag": "Urbanizmus",
-      "title": "SKY PARK Tower je v polovici výstavby. V októbri išli do predaja 4-izbové byty",
-      "summary": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14. nadzemnom podlaží. Práce sa majú skončiť v roku 2027, začali sa v roku 2024.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/development/sky-park-tower-je-v-polovici-vystavby",
-      "date": "2026-10-13T14:08:25+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/sky-park-tower-26-840x560.jpg",
-      "ai_learning": {
-        "overview": "Výstavba veže SKY PARK Tower v Bratislave dosiahla 14. poschodie. Práce začali v roku 2024 a plánované dokončenie je v roku 2027. V októbri sa začala predaj 4-izbových bytov.",
-        "takeaways": [
-          "SKY PARK Tower je momentálne vo výstavbe do 14. nadzemného podlažia.",
-          "Výstavba začala v roku 2024, dokončenie je plánované na rok 2027.",
-          "V októbri boli spustené predaje 4-izbových bytov v tejto veži."
-        ],
-        "question": "Ako môže výstavba SKY PARK Tower ovplyvniť urbanistický rozvoj Bratislavy?",
-        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
-        "model": "gpt-4.1-mini"
-      },
-      "topic": "Urbanizmus",
-      "relevance": 62,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Výstavba prémiovej výškovej obytnej veže v Bratislave od developera Alto Real Estate už nabrala jasné kontúry, aktuálne je na 14.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "excerpt_highlight": "Rozumieť číslam, vyhodnocovať informácie, rozhodovať o vlastných financiách či riešiť problémy.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -402,7 +409,7 @@
   "max_age_days": 120,
   "ai_enrichment": {
     "enabled": true,
-    "attempted": 7,
+    "attempted": 10,
     "succeeded": 0,
     "limit_per_run": 10,
     "source_scope": "rss_excerpt_only"
