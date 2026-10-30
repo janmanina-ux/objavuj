@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:34:19+00:00",
+  "updated": "2026-10-30T11:26:30+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -49,6 +49,26 @@
       "learning": {
         "excerpt_highlight": "Množstvo satelitov a vesmírneho odpadu na obežnej dráhe blokuje pozemným teleskopom výhľad na nočnú oblohu.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/development/anketa-verejny-priestor-neexistuje-izolovane",
+      "tag": "Urbanizmus",
+      "title": "Anketa: Verejný priestor neexistuje izolovane",
+      "summary": "V posledných rokoch sa aj vďaka klimatickým zmenám veľa hovorí o kvalite verejných priestorov. Developeri nemajú založené ruky, prinášajú svoje návrhy do nových štvrtí a samospráva má vlastné predstavy. Dobrý návrh vzniká v diskusii oboch strán.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/development/anketa-verejny-priestor-neexistuje-izolovane",
+      "date": "2026-10-30T07:00:10+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/bratislava-3-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 89,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "V posledných rokoch sa aj vďaka klimatickým zmenám veľa hovorí o kvalite verejných priestorov.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -251,26 +271,6 @@
       "learning": {
         "excerpt_highlight": "Most ponad Šúrsky kanál medzi Chorvátskym Grobom a mestskou časťou Bratislava-Vajnory je vo veľmi zlom technickom stave a bežné opravy už nestačia.",
         "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://www.asb.sk/aktualne/startuje-hlasovanie-cing-2026",
-      "tag": "Urbanizmus",
-      "title": "Štartuje hlasovanie CING 2026. Ktorá stavba si zaslúži Cenu verejnosti?",
-      "summary": "Ktorá zo slovenských stavieb si zaslúži Cenu verejnosti? Slovenská komora stavebných inžinierov (SKSI) spúšťa verejné hlasovanie v treťom ročníku súťaže Cena Inžinierskej komory vo výstavbe – CING 2026. O priazeň verejnosti sa uchádza 25 stavebných diel z rôznych regiónov Slovenska.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/aktualne/startuje-hlasovanie-cing-2026",
-      "date": "2026-10-19T08:43:43+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/cena-inzinierskej-komory-840x560.jpg",
-      "topic": "Urbanizmus",
-      "relevance": 62,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Ktorá zo slovenských stavieb si zaslúži Cenu verejnosti?",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
