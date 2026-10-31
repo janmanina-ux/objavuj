@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:26:30+00:00",
+  "updated": "2026-10-31T10:57:32+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
@@ -28,6 +28,26 @@
       "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
       "learning": {
         "excerpt_highlight": "Nedostatok parkovacích miest a kvalitných športovísk patrí medzi časté problémy slovenských sídlisk.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/od-asfaltu-spat-k-vode-v-holandskom-utrechte-nahradil-rusnu-mestsku-dialnicu-vodny-kanal-a-zeleny-park",
+      "tag": "Urbanizmus",
+      "title": "Od asfaltu späť k vode. V holandskom Utrechte nahradil rušnú mestskú diaľnicu vodný kanál a zelený park",
+      "summary": "Utrecht sa rozhodol vrátiť mestu jeho vodnú dušu. Tam, kde kedysi hučali autá na desaťprúdovej diaľnici, sa dnes znovu leskne vodná hladina historického kanála. Premena Catharijnesingelu sa stala symbolom toho, ako môže obnova mestskej krajiny spojiť históriu, ekológiu a moderný urbanizmus.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/od-asfaltu-spat-k-vode-v-holandskom-utrechte-nahradil-rusnu-mestsku-dialnicu-vodny-kanal-a-zeleny-park",
+      "date": "2026-10-30T12:00:55+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/03/00okra-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 98,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Utrecht sa rozhodol vrátiť mestu jeho vodnú dušu.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
@@ -219,26 +239,6 @@
       "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
       "learning": {
         "excerpt_highlight": "Bratislava stojí pred možnou transformáciou jedného zo svojich najväčších brownfieldov.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://www.asb.sk/architektura/urbanizmus/revitalizacia-ruzinovskeho-jazera-ma-uzemne-rozhodnutie",
-      "tag": "Urbanizmus",
-      "title": "Po rokoch príprav prichádza posun. Revitalizácia Ružinovského jazera má územné rozhodnutie",
-      "summary": "Revitalizácia Ružinovského jazera sa po rokoch príprav posunula do ďalšej fázy. Projekt získal územné rozhodnutie, ktoré približuje plánovanú obnovu areálu k realizácii. Návrh počíta so zokruhovaním peších trás, novými mólami, úpravou brehov, doplnením zelene aj vytvorením mokrade a oddychových plôch.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/architektura/urbanizmus/revitalizacia-ruzinovskeho-jazera-ma-uzemne-rozhodnutie",
-      "date": "2026-10-27T12:17:02+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Untitled-Design-5-840x560.png",
-      "topic": "Urbanizmus",
-      "relevance": 71,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Revitalizácia Ružinovského jazera sa po rokoch príprav posunula do ďalšej fázy.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
