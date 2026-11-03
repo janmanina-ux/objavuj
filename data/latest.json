@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-02T13:35:49+00:00",
+  "updated": "2026-11-03T12:51:00+00:00",
   "articles": [
+    {
+      "id": "https://www.asb.sk/architektura/urbanizmus/zilinske-solinky-caka-velka-premena",
+      "tag": "Urbanizmus",
+      "title": "Žilinské Solinky čaká veľká premena. Novému verejnému priestoru bude dominovať vodné brodisko",
+      "summary": "Obyvatelia žilinského sídliska Solinky získajú nový priestor na oddych aj stretávanie. Mesto pripravilo rozsiahlu revitalizáciu vnútrobloku, ktorá prinesie množstvo zelene, nové pešie prepojenia, oddychové zóny aj netradičný vodný prvok.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/urbanizmus/zilinske-solinky-caka-velka-premena",
+      "date": "2026-11-02T13:49:24+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/10/axo-02-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 100,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Obyvatelia žilinského sídliska Solinky získajú nový priestor na oddych aj stretávanie.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
     {
       "id": "https://www.asb.sk/architektura/urbanizmus/kosicke-sidlisko-caka-netradicna-premena-verejneho-priestoru",
       "tag": "Urbanizmus",
@@ -224,26 +244,6 @@
       }
     },
     {
-      "id": "https://www.asb.sk/architektura/urbanizmus/verejnost-moze-odteraz-vstupit-do-pripravy-uzemia-istrochem",
-      "tag": "Urbanizmus",
-      "title": "Ako sa zmení Istrochem? Verejnosť môže odteraz vstúpiť do prípravy územia",
-      "summary": "Bratislava stojí pred možnou transformáciou jedného zo svojich najväčších brownfieldov. Rozsiahle územie bývalého priemyselného areálu Istrochemu s rozlohou približne 1,6 milióna m² sa dnes nedostatočne využíva. Vzhľadom na svoju polohu a veľkosť môže jeho budúca premena výrazne ovplyvniť mestskú časť Nové Mesto aj širšie územie Bratislavy. Ešte pred prípravou konkrétneho urbanistického riešenia sa preto začína participácia s ",
-      "source": "ASB",
-      "url": "https://www.asb.sk/architektura/urbanizmus/verejnost-moze-odteraz-vstupit-do-pripravy-uzemia-istrochem",
-      "date": "2026-10-28T02:00:57+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/10/Brownfield2-840x560.jpg",
-      "topic": "Urbanizmus",
-      "relevance": 71,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Bratislava stojí pred možnou transformáciou jedného zo svojich najväčších brownfieldov.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
       "id": "https://www.asb.sk/aktualne/novy-most-medzi-vajnorami-a-ciernou-vodou",
       "tag": "Urbanizmus",
       "title": "Starý zbúrajú, postavia druhý. Nový most medzi Vajnorami a Čiernou Vodou zlepší aj podmienky pre cyklistov",
@@ -270,6 +270,46 @@
       "why_read": "Môže pomôcť pri príprave výjazdu, tréningu alebo výbavy.",
       "learning": {
         "excerpt_highlight": "Most ponad Šúrsky kanál medzi Chorvátskym Grobom a mestskou časťou Bratislava-Vajnory je vo veľmi zlom technickom stave a bežné opravy už nestačia.",
+        "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/matematika/biomatematicka-iryna-zabaikina-matematika-je-v-urcitom-zmysle-tiez-umenie/",
+      "tag": "Veda",
+      "title": "Biomatematička Iryna Zabaikina: Matematika je v určitom zmysle tiež umenie",
+      "summary": "Rozhovor s laureátkou ocenenia L’Oréal – UNESCO Pre ženy vo vede na Slovensku Irynou Zabaikinou o výskume, ženách vo vede aj o tom, čo pre ňu ocenenie znamená.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/matematika/biomatematicka-iryna-zabaikina-matematika-je-v-urcitom-zmysle-tiez-umenie/",
+      "date": "2026-11-03T11:55:56+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 69,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Rozhovor s laureátkou ocenenia L’Oréal – UNESCO Pre ženy vo vede na Slovensku Irynou Zabaikinou o výskume, ženách vo vede aj o tom, čo pre ňu ocenenie znamená.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/development/investor-polyfunkcneho-centra-oc-jazero-ma-viacero-uloh",
+      "tag": "Urbanizmus",
+      "title": "Investor polyfunkčného centra OC Jazero má viacero úloh: chodníky, cyklotrasy, výsadbu stromov",
+      "summary": "Nový objekt – retailové centrum s apartmánovým bývaním, parkovaním a oddychovou zónou – má vyrásť na zanedbaných pozemkoch medzi Slaneckou cestou a bývalým areálom Mlyn Košice v metropole východu.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/development/investor-polyfunkcneho-centra-oc-jazero-ma-viacero-uloh",
+      "date": "2026-11-03T09:00:28+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/11/jzerero-11-1-840x497.jpg",
+      "topic": "Bikepacking",
+      "relevance": 62,
+      "read_minutes_excerpt": 1,
+      "why_read": "Môže pomôcť pri príprave výjazdu, tréningu alebo výbavy.",
+      "learning": {
+        "excerpt_highlight": "Nový objekt – retailové centrum s apartmánovým bývaním, parkovaním a oddychovou zónou – má vyrásť na zanedbaných pozemkoch medzi Slaneckou cestou a bývalým areálom Mlyn Košice v metropole východu.",
         "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
@@ -363,36 +403,6 @@
         "excerpt_highlight": "Ôsmy ročník ocenenia ESET Science Award pozná svojich laureátov a laureátky.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
-      "tag": "Veda",
-      "title": "Záhadný oblak na Marse prekvapil vedcov nečakanou fyzikou",
-      "summary": "Sonda Mars Express nedávno odhalila fascinujúce tajomstvo červenej planéty. Gigantický oblak na Marse, ktorý sa tvorí výlučne ráno, vzniká na základe nečakaného fyzikálneho procesu.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/vesmir/zahadny-oblak-na-marse-prekvapil-vedcov-necakanou-fyzikou/",
-      "date": "2026-10-13T08:55:22+00:00",
-      "type": "rss",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Sonda Mars Express nedávno odhalila fascinujúce tajomstvo červenej planéty.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      },
-      "ai_learning": {
-        "overview": "Sonda Mars Express zaznamenala na Marse oblak, ktorý sa tvorí iba ráno a je výsledkom nečakanej fyzikálnej dynamiky. Podrobnosti o procese však nie sú úplne známe.",
-        "takeaways": [
-          "Na Marse sa objavili ranné oblaky spojené s neznámym fyzikálnym procesom.",
-          "Pozorovania vykonala sonda Mars Express.",
-          "Presné detaily o vzniku oblaku nie sú v texte uvedené."
-        ],
-        "question": "Aké faktory môžu ovplyvniť vznik ranných oblakov na Marse?",
-        "scope": "AI spracovanie iba z titulku a RSS úryvku; originálny článok nebol prečítaný.",
-        "model": "gpt-4.1-mini"
       }
     }
   ],
