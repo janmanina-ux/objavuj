@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:16:31+00:00",
+  "updated": "2026-11-06T12:59:41+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -315,6 +315,46 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/zdravie/mlada-vyskumnicka-z-fakulty-informatiky-a-informacnych-technologii-stu-overuje-co-naozaj-pomaha-pri-vcasnom-odhaleni-rizika-alzheimerovej-choroby/",
+      "tag": "Veda",
+      "title": "Mladá výskumníčka z Fakulty informatiky a informačných technológií STU overuje, čo naozaj pomáha pri včasnom odhalení rizika Alzheimerovej choroby",
+      "summary": "Výskumníčka Fakulty informatiky a informačných technológií Slovenskej technickej univerzity (FIIT STU) Martina Billichová pomocou umelej inteligencie skúma, ako veľmi magnetická rezonancia mozgu zlepšuje predpoveď rizika amnestickej miernej kognitívnej poruchy.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/zdravie/mlada-vyskumnicka-z-fakulty-informatiky-a-informacnych-technologii-stu-overuje-co-naozaj-pomaha-pri-vcasnom-odhaleni-rizika-alzheimerovej-choroby/",
+      "date": "2026-11-06T11:55:48+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Výskumníčka Fakulty informatiky a informačných technológií Slovenskej technickej univerzity (FIIT STU) Martina Billichová pomocou umelej inteligencie skúma, ako veľmi magnetická rezonancia mozgu zlepšuje predpoveď…",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/priroda/matematika/matikalypsa-alebo-zaciatok-novej-ery-matematiky-umela-inteligencia-predklada-stovky-rieseni-otvorenych-problemov/",
+      "tag": "Veda",
+      "title": "Matikalypsa alebo začiatok novej éry matematiky? Umelá inteligencia predkladá stovky riešení otvorených problémov",
+      "summary": "Spoločnosť OpenAI rozprúdila diskusiu o hraniciach strojového uvažovania aj o budúcnosti matematiky.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/priroda/matematika/matikalypsa-alebo-zaciatok-novej-ery-matematiky-umela-inteligencia-predklada-stovky-rieseni-otvorenych-problemov/",
+      "date": "2026-11-05T13:55:12+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Spoločnosť OpenAI rozprúdila diskusiu o hraniciach strojového uvažovania aj o budúcnosti matematiky.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/ine/zvedave-debaty-vo-finale-tyzden-vedy-a-techniky-2026-prinesie-styri-pribehy-od-vesmiru-po-hlbiny-oceanov/",
       "tag": "Veda",
       "title": "Zvedavé debaty vo finále: Týždeň vedy a techniky 2026 prinesie štyri príbehy od vesmíru po hlbiny oceánov",
@@ -350,46 +390,6 @@
       "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
         "excerpt_highlight": "Európski vedci úspešne otestovali inovatívny spôsob prenosu dát z vesmíru.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ine/dovera-vo-vyskumnikov-je-klucova-pre-ochotu-zapojit-sa-do-medicinskeho-vyskumu-ukazuje-vyskum-sav/",
-      "tag": "Veda",
-      "title": "Dôvera vo výskumníkov je kľúčová pre ochotu zapojiť sa do medicínskeho výskumu, ukazuje výskum SAV",
-      "summary": "Výskum psychológov Martina Sedlára a Matúša Greža z Ústavu experimentálnej psychológie Centra spoločenských a psychologických vied SAV, v. v. i., ukázal, že ochota ľudí zapojiť sa do medicínskeho výskumu úzko súvisí s ich dôverou vo výskumníkov.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ine/dovera-vo-vyskumnikov-je-klucova-pre-ochotu-zapojit-sa-do-medicinskeho-vyskumu-ukazuje-vyskum-sav/",
-      "date": "2026-11-04T04:55:47+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Výskum psychológov Martina Sedlára a Matúša Greža z Ústavu experimentálnej psychológie Centra spoločenských a psychologických vied SAV, v.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ine/matematika-nie-je-len-skolsky-predmet-je-to-zakladna-zrucnost-pre-zivot-a-buducnost-slovenska/",
-      "tag": "Veda",
-      "title": "Matematika nie je len školský predmet. Je to základná zručnosť pre život a budúcnosť Slovenska",
-      "summary": "Rozumieť číslam, vyhodnocovať informácie, rozhodovať o vlastných financiách či riešiť problémy. Matematika je základnou zručnosťou, ktorú potrebujeme v každodennom živote bez ohľadu na povolanie. Slovensko má však vážny problém s matematickou gramotnosťou. Ukazujú to medzinárodné merania aj skúsenosti škôl a univerzít. Ministerstvo školstva preto predstavilo päť vzájomne prepojených opatrení, ktoré majú zmeniť spôsob vyučovani",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ine/matematika-nie-je-len-skolsky-predmet-je-to-zakladna-zrucnost-pre-zivot-a-buducnost-slovenska/",
-      "date": "2026-10-28T04:55:26+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Rozumieť číslam, vyhodnocovať informácie, rozhodovať o vlastných financiách či riešiť problémy.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
