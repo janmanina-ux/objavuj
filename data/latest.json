@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:46:14+00:00",
+  "updated": "2026-11-08T11:58:20+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -315,6 +315,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/kvizy/kviz-po-stopach-kozmickych-zrn-ako-dobre-poznate-hviezdny-prach/",
+      "tag": "Veda",
+      "title": "Kvíz: Po stopách kozmických zŕn: Ako dobre poznáte hviezdny prach?",
+      "summary": "Kozmický prach ukrýva informácie o vzniku slnečnej sústavy. Overte si svoje vedomosti v kvíze inšpirovanom misiou Stardust .",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/kvizy/kviz-po-stopach-kozmickych-zrn-ako-dobre-poznate-hviezdny-prach/",
+      "date": "2026-11-08T04:55:58+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Kozmický prach ukrýva informácie o vzniku slnečnej sústavy.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/zdravie/mlada-vyskumnicka-z-fakulty-informatiky-a-informacnych-technologii-stu-overuje-co-naozaj-pomaha-pri-vcasnom-odhaleni-rizika-alzheimerovej-choroby/",
       "tag": "Veda",
       "title": "Mladá výskumníčka z Fakulty informatiky a informačných technológií STU overuje, čo naozaj pomáha pri včasnom odhalení rizika Alzheimerovej choroby",
@@ -370,26 +390,6 @@
       "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
         "excerpt_highlight": "Do Zvedavých debát v Bratislave prijali pozvanie vesmírna inžinierka, literárna vedkyňa, biologička rýb a biochemička.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/rychlejsie-data-z-vesmiru-satelit-ermis-3-trafil-laserom-pozemnu-stanicu/",
-      "tag": "Veda",
-      "title": "Rýchlejšie dáta z vesmíru: Satelit ERMIS-3 trafil laserom pozemnú stanicu",
-      "summary": "Európski vedci úspešne otestovali inovatívny spôsob prenosu dát z vesmíru. Malý satelit nadviazal stabilné laserové spojenie s pozemnou stanicou.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/technika/informacne-a-komunikacne-technologie/rychlejsie-data-z-vesmiru-satelit-ermis-3-trafil-laserom-pozemnu-stanicu/",
-      "date": "2026-11-04T11:55:31+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Európski vedci úspešne otestovali inovatívny spôsob prenosu dát z vesmíru.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
