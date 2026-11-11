@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:31:22+00:00",
+  "updated": "2026-11-11T12:46:40+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -291,6 +291,26 @@
       "learning": {
         "excerpt_highlight": "Rozhovor s laureátkou ocenenia L’Oréal – UNESCO Pre ženy vo vede na Slovensku Irynou Zabaikinou o výskume, ženách vo vede aj o tom, čo pre ňu ocenenie znamená.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/aktualne/zeleznicna-trat-v-lokalite-devinske-jazero-bude-bezpecnejsia-pre-cyklistov-aj-chodcov",
+      "tag": "Urbanizmus",
+      "title": "Železničná trať v lokalite Devínske Jazero bude bezpečnejšia pre cyklistov aj chodcov",
+      "summary": "Modernizácia železničnej trate v lokalite Devínske Jazero prináša obnovu zastávky, koľají aj trakčného vedenia. Súčasťou projektu je nový cestný nadjazd, ktorý nahrádza dve úrovňové priecestia. Priecestie pri čučoriedkovej farme je od utorka 10. novembra 2026 natrvalo uzavreté pre vodičov, cyklistov aj chodcov. Náhradné spojenie vedie cez nový nadjazd.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/aktualne/zeleznicna-trat-v-lokalite-devinske-jazero-bude-bezpecnejsia-pre-cyklistov-aj-chodcov",
+      "date": "2026-11-11T08:51:52+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/11/devinske-jazero-3-840x560.jpg",
+      "topic": "Bikepacking",
+      "relevance": 62,
+      "read_minutes_excerpt": 1,
+      "why_read": "Môže pomôcť pri príprave výjazdu, tréningu alebo výbavy.",
+      "learning": {
+        "excerpt_highlight": "Modernizácia železničnej trate v lokalite Devínske Jazero prináša obnovu zastávky, koľají aj trakčného vedenia.",
+        "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
