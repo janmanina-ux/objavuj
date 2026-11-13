@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:49:26+00:00",
+  "updated": "2026-11-13T13:11:26+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -275,6 +275,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/ine/kam-s-detmi-21-novembra-2026-aurelium-pozyva-rodiny-na-den-plny-vedeckych-kuziel-a-prekvapeni/",
+      "tag": "Veda",
+      "title": "Kam s deťmi 21. novembra 2026? Aurelium pozýva rodiny na deň plný vedeckých kúziel a prekvapení",
+      "summary": "Návštevníkov čaká pestrý program a nevšedné zážitky – stretnutie s humanoidným robotom, robotickým psom, CirKusKus, Kúzelná fyzika a ešte oveľa viac.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ine/kam-s-detmi-21-novembra-2026-aurelium-pozyva-rodiny-na-den-plny-vedeckych-kuziel-a-prekvapeni/",
+      "date": "2026-11-13T11:55:57+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 69,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Návštevníkov čaká pestrý program a nevšedné zážitky – stretnutie s humanoidným robotom, robotickým psom, CirKusKus, Kúzelná fyzika a ešte oveľa viac.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/priroda/matematika/biomatematicka-iryna-zabaikina-matematika-je-v-urcitom-zmysle-tiez-umenie/",
       "tag": "Veda",
       "title": "Biomatematička Iryna Zabaikina: Matematika je v určitom zmysle tiež umenie",
@@ -390,26 +410,6 @@
       "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
         "excerpt_highlight": "Spoločnosť OpenAI rozprúdila diskusiu o hraniciach strojového uvažovania aj o budúcnosti matematiky.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/ine/zvedave-debaty-vo-finale-tyzden-vedy-a-techniky-2026-prinesie-styri-pribehy-od-vesmiru-po-hlbiny-oceanov/",
-      "tag": "Veda",
-      "title": "Zvedavé debaty vo finále: Týždeň vedy a techniky 2026 prinesie štyri príbehy od vesmíru po hlbiny oceánov",
-      "summary": "Do Zvedavých debát v Bratislave prijali pozvanie vesmírna inžinierka, literárna vedkyňa, biologička rýb a biochemička.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/ine/zvedave-debaty-vo-finale-tyzden-vedy-a-techniky-2026-prinesie-styri-pribehy-od-vesmiru-po-hlbiny-oceanov/",
-      "date": "2026-11-05T11:55:23+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Do Zvedavých debát v Bratislave prijali pozvanie vesmírna inžinierka, literárna vedkyňa, biologička rýb a biochemička.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
