@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:11:26+00:00",
+  "updated": "2026-11-14T12:15:44+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -113,6 +113,26 @@
       }
     },
     {
+      "id": "https://www.asb.sk/architektura/trencin-spristupnil-unikatny-fiesta-most",
+      "tag": "Urbanizmus",
+      "title": "Namiesto koľajníc ulica. Trenčín sprístupnil unikátny Fiesta most",
+      "summary": "Trenčín má nový verejný priestor nad Váhom. Bývalý železničný most, ktorým viac ako 130 rokov prechádzali vlaky, sa zmenil na Fiesta most – pešiu zelenú ulicu s cyklotrasou medzi oboma brehmi rieky. Pôvodnú oceľovú konštrukciu doplnili miesta na stretnutia, oddych a kultúru. Túto novú dominantu mesto začalo postupne sprístupňovať v piatok 13. novembra 2026 o 15.00 h.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/architektura/trencin-spristupnil-unikatny-fiesta-most",
+      "date": "2026-11-13T14:00:54+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/11/most-fiesta-2-1-840x560.jpg",
+      "topic": "Urbanizmus",
+      "relevance": 89,
+      "read_minutes_excerpt": 1,
+      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
+      "learning": {
+        "excerpt_highlight": "Trenčín má nový verejný priestor nad Váhom.",
+        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://www.asb.sk/development/anketa-verejny-priestor-neexistuje-izolovane",
       "tag": "Urbanizmus",
       "title": "Anketa: Verejný priestor neexistuje izolovane",
@@ -179,26 +199,6 @@
       "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
       "learning": {
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
-        "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://www.asb.sk/architektura/urbanizmus/ako-sa-zmeni-okolie-zwirnu-a-pradiarne-1900",
-      "tag": "Urbanizmus",
-      "title": "Ako sa zmení okolie ZWIRNu a Pradiarne 1900? Developer upraví vozovky a chodníky, pribudne zeleň",
-      "summary": "Koncom októbra začal developer YIT Slovakia práce na Páričkovej, Košickej a Svätoplukovej ulici v bratislavskom Ružinove. Cieľom je spolu s dokončovaním novej mestskej štvrte skvalitniť aj verejný priestor v jej bezprostrednom okolí a vytvoriť bezpečnejšie a príjemnejšie podmienky pre peších, cyklistov, cestujúcich MHD aj vodičov.",
-      "source": "ASB",
-      "url": "https://www.asb.sk/architektura/urbanizmus/ako-sa-zmeni-okolie-zwirnu-a-pradiarne-1900",
-      "date": "2026-11-04T07:56:00+00:00",
-      "type": "rss",
-      "image": "https://www.asb.sk/wp-content/uploads/2026/11/Kosicka_skica-_POTOM-male-840x560.png",
-      "topic": "Urbanizmus",
-      "relevance": 80,
-      "read_minutes_excerpt": 1,
-      "why_read": "Dotýka sa navrhovania miest a verejného priestoru.",
-      "learning": {
-        "excerpt_highlight": "Koncom októbra začal developer YIT Slovakia práce na Páričkovej, Košickej a Svätoplukovej ulici v bratislavskom Ružinove.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
