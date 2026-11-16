@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:47:48+00:00",
+  "updated": "2026-11-16T13:43:55+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -351,6 +351,26 @@
       "learning": {
         "excerpt_highlight": "Nový objekt – retailové centrum s apartmánovým bývaním, parkovaním a oddychovou zónou – má vyrásť na zanedbaných pozemkoch medzi Slaneckou cestou a bývalým areálom Mlyn Košice v metropole východu.",
         "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://www.asb.sk/stavebnictvo/moderny-bungalov-na-kutnohorsku-domov-premysleny-do-posledneho-detailu",
+      "tag": "Urbanizmus",
+      "title": "Moderný bungalov na Kutnohorsku: Domov premyslený do posledného detailu",
+      "summary": "Keď sa stavba rodinného domu vydarí presne podľa plánu, netreba robiť kompromisy. Manželia na Kutnohorsku sa rozhodli vyhnúť tradičnému scenáru vyčerpaných financií a energie. Od prvého výkopu mali jasnú predstavu: chceli kompletne dokončený domov vrátane interiéru a záhrady.",
+      "source": "ASB",
+      "url": "https://www.asb.sk/stavebnictvo/moderny-bungalov-na-kutnohorsku-domov-premysleny-do-posledneho-detailu",
+      "date": "2026-11-16T02:00:42+00:00",
+      "type": "rss",
+      "image": "https://www.asb.sk/wp-content/uploads/2026/11/01_rd-kutna-hora©jirihlousekphoto-2305-840x560.jpg",
+      "topic": "Hory",
+      "relevance": 61,
+      "read_minutes_excerpt": 1,
+      "why_read": "Ponúka informácie alebo inšpiráciu k horským aktivitám.",
+      "learning": {
+        "excerpt_highlight": "Keď sa stavba rodinného domu vydarí presne podľa plánu, netreba robiť kompromisy.",
+        "question": "Čo je potrebné pred výletom ešte overiť z aktuálnych podmienok?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
