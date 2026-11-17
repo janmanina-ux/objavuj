@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:43:55+00:00",
+  "updated": "2026-11-17T14:32:34+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -200,6 +200,26 @@
       "learning": {
         "excerpt_highlight": "Obľúbené detské ihrisko na Jakubovom námestí prešlo výraznou premenou.",
         "question": "Ako by sa dal opísaný princíp uplatniť pri úprave verejného priestoru?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/technika/materialy/inzinieri-premenili-tenky-plast-na-izolant-ktory-by-mohli-vyuzit-astronauti-vo-vesmire/",
+      "tag": "Veda",
+      "title": "Inžinieri premenili tenký plast na izolant, ktorý by mohli využiť astronauti vo vesmíre",
+      "summary": "Vedci premenili tenký plast, z ktorého sa vyrábajú izotermické fólie, na silnú izoláciu, ktorá by mohla pomôcť astronautom prežiť extrémne teploty na Mesiaci.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/technika/materialy/inzinieri-premenili-tenky-plast-na-izolant-ktory-by-mohli-vyuzit-astronauti-vo-vesmire/",
+      "date": "2026-11-17T13:55:48+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 87,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Vedci premenili tenký plast, z ktorého sa vyrábajú izotermické fólie, na silnú izoláciu, ktorá by mohla pomôcť astronautom prežiť extrémne teploty na Mesiaci.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
@@ -410,26 +430,6 @@
       "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
         "excerpt_highlight": "Výskumníčka Fakulty informatiky a informačných technológií Slovenskej technickej univerzity (FIIT STU) Martina Billichová pomocou umelej inteligencie skúma, ako veľmi magnetická rezonancia mozgu zlepšuje predpoveď…",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/priroda/matematika/matikalypsa-alebo-zaciatok-novej-ery-matematiky-umela-inteligencia-predklada-stovky-rieseni-otvorenych-problemov/",
-      "tag": "Veda",
-      "title": "Matikalypsa alebo začiatok novej éry matematiky? Umelá inteligencia predkladá stovky riešení otvorených problémov",
-      "summary": "Spoločnosť OpenAI rozprúdila diskusiu o hraniciach strojového uvažovania aj o budúcnosti matematiky.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/priroda/matematika/matikalypsa-alebo-zaciatok-novej-ery-matematiky-umela-inteligencia-predklada-stovky-rieseni-otvorenych-problemov/",
-      "date": "2026-11-05T13:55:12+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Spoločnosť OpenAI rozprúdila diskusiu o hraniciach strojového uvažovania aj o budúcnosti matematiky.",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
