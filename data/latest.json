@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:32:34+00:00",
+  "updated": "2026-11-18T14:08:17+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -371,6 +371,26 @@
       "learning": {
         "excerpt_highlight": "Nový objekt – retailové centrum s apartmánovým bývaním, parkovaním a oddychovou zónou – má vyrásť na zanedbaných pozemkoch medzi Slaneckou cestou a bývalým areálom Mlyn Košice v metropole východu.",
         "question": "Ako by tento poznatok ovplyvnil tvoje plánovanie trasy alebo výbavy?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
+      "id": "https://vedanadosah.cvtisr.sk/zdravie/niekedy-je-najtazsi-vystup-ten-k-urologovi-horski-zachranari-podporuju-boj-proti-rakovine-prostaty/",
+      "tag": "Veda",
+      "title": "Niekedy je najťažší výstup ten k urológovi. Horskí záchranári podporujú boj proti rakovine prostaty",
+      "summary": "Slovenská urologická spoločnosť spolu so svojimi partnermi opäť upriamila pozornosť na mužské zdravie pri príležitosti celosvetovej kampane Movember. K urológom, Lige proti rakovine, pacientskej organizácii Europa Uomo Slovensko a spoločnosti Johnson & Johnson sa tento rok pridali aj zástupcovia Horskej záchrannej služby SR. Spoločne pripomenuli, že skutočná odvaha nespočíva iba v prekonávaní náročných výziev, ale aj v zodpove",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/zdravie/niekedy-je-najtazsi-vystup-ten-k-urologovi-horski-zachranari-podporuju-boj-proti-rakovine-prostaty/",
+      "date": "2026-11-18T13:55:34+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Hory",
+      "relevance": 61,
+      "read_minutes_excerpt": 1,
+      "why_read": "Ponúka informácie alebo inšpiráciu k horským aktivitám.",
+      "learning": {
+        "excerpt_highlight": "Slovenská urologická spoločnosť spolu so svojimi partnermi opäť upriamila pozornosť na mužské zdravie pri príležitosti celosvetovej kampane Movember.",
+        "question": "Čo je potrebné pred výletom ešte overiť z aktuálnych podmienok?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
     },
