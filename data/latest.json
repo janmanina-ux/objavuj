@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:08:17+00:00",
+  "updated": "2026-11-19T14:28:51+00:00",
   "articles": [
     {
       "id": "https://www.asb.sk/architektura/tomas-boros-verejnemu-priestoru-velmi-prospieva-kvalitna-architektura",
@@ -415,6 +415,26 @@
       }
     },
     {
+      "id": "https://vedanadosah.cvtisr.sk/ludia/historia-a-archeologia/olga-gyarfasova-o-cenzure-vo-vede-za-socializmu-a-o-ceste-k-slobodnemu-vyskumu/",
+      "tag": "Veda",
+      "title": "Oľga Gyárfášová o cenzúre vo vede za socializmu a o ceste k slobodnému výskumu",
+      "summary": "Uznávaná sociologička Oľga Gyárfášová v rozhovore približuje, ako ideologické prekážky a prísna cenzúra deformovali vedu počas komunistického režimu a čo znamenal pád železnej opony pre slobodný výskum.",
+      "source": "Veda na dosah",
+      "url": "https://vedanadosah.cvtisr.sk/ludia/historia-a-archeologia/olga-gyarfasova-o-cenzure-vo-vede-za-socializmu-a-o-ceste-k-slobodnemu-vyskumu/",
+      "date": "2026-11-19T11:55:06+00:00",
+      "type": "rss",
+      "image": "",
+      "topic": "Veda",
+      "relevance": 60,
+      "read_minutes_excerpt": 1,
+      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
+      "learning": {
+        "excerpt_highlight": "Uznávaná sociologička Oľga Gyárfášová v rozhovore približuje, ako ideologické prekážky a prísna cenzúra deformovali vedu počas komunistického režimu a čo znamenal pád železnej opony pre slobodný výskum.",
+        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
+        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
+      }
+    },
+    {
       "id": "https://vedanadosah.cvtisr.sk/kvizy/kviz-po-stopach-kozmickych-zrn-ako-dobre-poznate-hviezdny-prach/",
       "tag": "Veda",
       "title": "Kvíz: Po stopách kozmických zŕn: Ako dobre poznáte hviezdny prach?",
@@ -430,26 +450,6 @@
       "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
       "learning": {
         "excerpt_highlight": "Kozmický prach ukrýva informácie o vzniku slnečnej sústavy.",
-        "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
-        "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
-      }
-    },
-    {
-      "id": "https://vedanadosah.cvtisr.sk/zdravie/mlada-vyskumnicka-z-fakulty-informatiky-a-informacnych-technologii-stu-overuje-co-naozaj-pomaha-pri-vcasnom-odhaleni-rizika-alzheimerovej-choroby/",
-      "tag": "Veda",
-      "title": "Mladá výskumníčka z Fakulty informatiky a informačných technológií STU overuje, čo naozaj pomáha pri včasnom odhalení rizika Alzheimerovej choroby",
-      "summary": "Výskumníčka Fakulty informatiky a informačných technológií Slovenskej technickej univerzity (FIIT STU) Martina Billichová pomocou umelej inteligencie skúma, ako veľmi magnetická rezonancia mozgu zlepšuje predpoveď rizika amnestickej miernej kognitívnej poruchy.",
-      "source": "Veda na dosah",
-      "url": "https://vedanadosah.cvtisr.sk/zdravie/mlada-vyskumnicka-z-fakulty-informatiky-a-informacnych-technologii-stu-overuje-co-naozaj-pomaha-pri-vcasnom-odhaleni-rizika-alzheimerovej-choroby/",
-      "date": "2026-11-06T11:55:48+00:00",
-      "type": "rss",
-      "image": "",
-      "topic": "Veda",
-      "relevance": 60,
-      "read_minutes_excerpt": 1,
-      "why_read": "Pomáha rozšíriť rozhľad v prírodných vedách.",
-      "learning": {
-        "excerpt_highlight": "Výskumníčka Fakulty informatiky a informačných technológií Slovenskej technickej univerzity (FIIT STU) Martina Billichová pomocou umelej inteligencie skúma, ako veľmi magnetická rezonancia mozgu zlepšuje predpoveď…",
         "question": "Aký dôkaz alebo meranie podporuje hlavné tvrdenie článku?",
         "scope": "Tvrdenie prevzaté iba z RSS úryvku; úplný článok nebol analyzovaný."
       }
